@@ -1,0 +1,7286 @@
+Entity,Label
+1 1,CARDINAL
+earth,LOC
+1 3,CARDINAL
+1 4,CARDINAL
+Night,WORK_OF_ART
+the evening,TIME
+the first day,DATE
+1 6,DATE
+1 7,CARDINAL
+1 8,DATE
+the  morning,TIME
+the second day,DATE
+1 9,DATE
+one,CARDINAL
+1 10,CARDINAL
+Earth,LOC
+1 11,CARDINAL
+1 12,DATE
+1 13,CARDINAL
+the morning,TIME
+the third day,DATE
+1 14,DATE
+the day,DATE
+night,TIME
+days  and,DATE
+1 16,DATE
+two,CARDINAL
+the day,DATE
+1 17,CARDINAL
+1 18,CARDINAL
+the day,DATE
+1 19,CARDINAL
+the fourth day,DATE
+1 21,DATE
+1 22,CARDINAL
+earth,LOC
+1 23,CARDINAL
+the fifth day,DATE
+1 24,DATE
+1 25,CARDINAL
+1 26,CARDINAL
+earth,LOC
+1 28,CARDINAL
+earth,LOC
+1 29,CARDINAL
+1 30,CARDINAL
+1 31,DATE
+the sixth day,DATE
+2 1,DATE
+2 2,DATE
+the seventh day,DATE
+the seventh day,DATE
+2 3,DATE
+seventh,ORDINAL
+2 4,CARDINAL
+the day,DATE
+2 5,CARDINAL
+2 6,CARDINAL
+2 7,DATE
+2 8,DATE
+Eden,LOC
+2 9,DATE
+2 10,DATE
+Eden,LOC
+four,CARDINAL
+2 11,CARDINAL
+first,ORDINAL
+Pison,PERSON
+Havilah,ORG
+2 12,CARDINAL
+2 13,DATE
+second,ORDINAL
+Ethiopia,GPE
+2 14,DATE
+third,ORDINAL
+Assyria,NORP
+fourth,ORDINAL
+Euphrates,ORG
+2 15,DATE
+Eden,LOC
+2 16,DATE
+2 17,CARDINAL
+the day,DATE
+thou  eatest,PERSON
+2 18,DATE
+2 19,DATE
+Adam,PERSON
+Adam,PERSON
+2 20,DATE
+Adam,PERSON
+Adam,PERSON
+2 21,DATE
+Adam  ,PERSON
+one,CARDINAL
+2 22,CARDINAL
+2 23,DATE
+Adam,PERSON
+one,CARDINAL
+2 25,DATE
+3 1,DATE
+subtil,ORG
+3 2,CARDINAL
+3 3,CARDINAL
+3 4,DATE
+3 5,CARDINAL
+the day,DATE
+3 6,DATE
+one,CARDINAL
+3 7,DATE
+3 8,DATE
+day,DATE
+Adam,PERSON
+3 9,DATE
+Adam  and,PERSON
+3 10,CARDINAL
+3 11,DATE
+3 12,CARDINAL
+3 13,DATE
+3 14,DATE
+the  days,DATE
+3 15,DATE
+3 16,DATE
+3 17,DATE
+Adam,PERSON
+3 18,CARDINAL
+3 19,CARDINAL
+3 20,DATE
+Adam,PERSON
+Eve,PERSON
+3 21,EVENT
+3 22,DATE
+one,CARDINAL
+3 23,CARDINAL
+Eden,LOC
+3 24,DATE
+Eden Cherubims,PRODUCT
+4 1,DATE
+Adam,PERSON
+Eve,PERSON
+Cain,PERSON
+4 2,DATE
+Abel,PERSON
+Abel,PERSON
+Cain,PERSON
+4 3,DATE
+Cain,PERSON
+4 4,DATE
+Abel,PERSON
+Abel,PERSON
+4 5,CARDINAL
+Cain,PERSON
+Cain,PERSON
+4 6,DATE
+Cain,PERSON
+4 7,DATE
+4 8,DATE
+Cain,PERSON
+Abel,PERSON
+Cain,PERSON
+Abel,PERSON
+4 9,DATE
+Cain  Where,PERSON
+Abel,PERSON
+4 10,DATE
+4 11,DATE
+4 12,DATE
+thou  tillest,PERSON
+earth,LOC
+4 13,DATE
+Cain,PERSON
+4 14,DATE
+this day,DATE
+one,CARDINAL
+4 15,DATE
+slayeth Cain,PERSON
+sevenfold,CARDINAL
+Cain,PERSON
+4 16,DATE
+Cain,PERSON
+Nod,ORG
+Eden,LOC
+4 17,DATE
+Cain,PERSON
+Enoch,PERSON
+Enoch,PERSON
+Enoch,PERSON
+Irad,ORG
+Irad,ORG
+Mehujael,ORG
+Mehujael,PERSON
+Methusael,GPE
+Methusael,GPE
+Lamech,PERSON
+4 19,DATE
+Lamech,PERSON
+two,CARDINAL
+Adah,PERSON
+Zillah,PERSON
+4 20,DATE
+Jabal,PERSON
+4 21,DATE
+Jubal  he,PERSON
+4 22,DATE
+Zillah,PERSON
+Tubalcain,PERSON
+instructer,ORG
+Tubalcain,PERSON
+Naamah,PERSON
+4 23,DATE
+Lamech,PERSON
+Zillah,PERSON
+Lamech,PERSON
+4 24,DATE
+Cain,PERSON
+sevenfold,CARDINAL
+Lamech,PERSON
+sevenfold,CARDINAL
+4 25,DATE
+Adam,PERSON
+Seth  ,PERSON
+Abel,PERSON
+Cain,PERSON
+4 26,DATE
+Seth  to,PERSON
+Enos,PERSON
+Adam  In,PERSON
+the day,DATE
+5 2,CARDINAL
+Adam  ,PERSON
+the  day,DATE
+5 3,DATE
+Adam,PERSON
+an hundred and thirty years,CARDINAL
+Seth  5 4,PERSON
+the days,DATE
+Adam,PERSON
+Seth,PERSON
+eight hundred years,DATE
+5 5,CARDINAL
+Adam,PERSON
+nine hundred and thirty years,DATE
+5 6,DATE
+Seth,PERSON
+an hundred and five years,CARDINAL
+Enos,PERSON
+5 7,DATE
+Seth,PERSON
+Enos,PERSON
+5 8,DATE
+Seth,PERSON
+nine  hundred and,CARDINAL
+5 9,DATE
+Enos,PERSON
+ninety years,DATE
+Cainan,GPE
+5 10,DATE
+Enos,PERSON
+Cainan,GPE
+eight hundred and fifteen years,DATE
+5 11,DATE
+Enos,PERSON
+nine hundred,CARDINAL
+five years,DATE
+5 12,DATE
+Cainan,GPE
+seventy years,DATE
+5 13,DATE
+And  Cainan,PERSON
+eight hundred and forty years,DATE
+5 14,DATE
+Cainan,GPE
+nine hundred and ten years,CARDINAL
+5 15,DATE
+sixty and five years  and,DATE
+Jared  5,PERSON
+eight hundred and thirty,CARDINAL
+5 17,DATE
+eight hundred ninety and five years,DATE
+5 18,DATE
+Jared,PERSON
+Jared,PERSON
+eight hundred years,DATE
+5 20,DATE
+Jared,PERSON
+nine  hundred sixty and,CARDINAL
+5 21,DATE
+Enoch,PERSON
+sixty and five years  ,DATE
+Methuselah,ORG
+Enoch,PERSON
+three hundred  years,DATE
+5 23,CARDINAL
+Enoch,PERSON
+three hundred sixty and five years  5 24,DATE
+Enoch,PERSON
+5 25,DATE
+Methuselah,ORG
+Lamech,PERSON
+5 26,DATE
+Methuselah,ORG
+Lamech,PERSON
+seven hundred eighty  and,CARDINAL
+two years,DATE
+5 27,DATE
+Methuselah,ORG
+nine hundred sixty and nine years,DATE
+5 28,DATE
+Lamech,PERSON
+5 29,DATE
+Noah,PERSON
+5 30,DATE
+Lamech,PERSON
+Noah,PERSON
+five hundred ninety and five  years,DATE
+5 31,DATE
+Lamech,PERSON
+seven hundred seventy and seven years,DATE
+5 32,DATE
+Noah,PERSON
+five hundred years old,DATE
+Noah,PERSON
+Shem  Ham,PERSON
+Japheth,PERSON
+6 1,DATE
+6 2,DATE
+6 3,DATE
+an hundred and twenty  years,CARDINAL
+6 4,EVENT
+days,DATE
+6 5,DATE
+6 6,DATE
+6 7,DATE
+6 8,DATE
+Noah,PERSON
+6 9,DATE
+Noah,PERSON
+Noah,PERSON
+Noah,PERSON
+6 10,DATE
+Noah,PERSON
+three,CARDINAL
+Shem  Ham,PERSON
+Japheth,PERSON
+6 11,TIME
+6 12,DATE
+earth,LOC
+6 13,DATE
+Noah,PERSON
+earth,LOC
+6 14,TIME
+6 15,DATE
+three hundred cubits,QUANTITY
+fifty  cubits,QUANTITY
+thirty cubits,QUANTITY
+ark,GPE
+second,ORDINAL
+third,ORDINAL
+6 17,DATE
+6 18,DATE
+ark,GPE
+6 19,DATE
+two,CARDINAL
+ark,GPE
+6 20,CARDINAL
+two,CARDINAL
+6 21,DATE
+6 22,DATE
+Noah,PERSON
+7 1,DATE
+Noah  Come,PERSON
+the  ark,ORG
+7 2,CARDINAL
+sevens,CARDINAL
+two,CARDINAL
+sevens,CARDINAL
+7 4,DATE
+seven days,DATE
+forty days,DATE
+forty nights,TIME
+earth,LOC
+7 5,DATE
+Noah,PERSON
+7 6,DATE
+Noah,PERSON
+six hundred years old,DATE
+earth,LOC
+7 7,DATE
+Noah,PERSON
+ark,GPE
+7 8,CARDINAL
+7 9,DATE
+two,CARDINAL
+two,CARDINAL
+Noah,PERSON
+Noah,PERSON
+7 10,DATE
+seven days,DATE
+earth,LOC
+7 11,EVENT
+the six hundredth year,DATE
+Noah,PERSON
+the second month   the seventeenth day of the month  the same day,DATE
+7 12,DATE
+forty nights,TIME
+7 13,EVENT
+the selfsame day,DATE
+Noah,PERSON
+Shem  ,PERSON
+Japheth,PERSON
+Noah,PERSON
+Noah,PERSON
+three,CARDINAL
+ark,GPE
+7 14,CARDINAL
+7 15,DATE
+Noah,PERSON
+two,CARDINAL
+two,CARDINAL
+7 16,DATE
+7 17,DATE
+forty days,DATE
+ark,GPE
+earth,LOC
+7 18,DATE
+7 19,DATE
+Fifteen cubits,QUANTITY
+7 21,DATE
+7 22,CARDINAL
+7 23,DATE
+Noah,PERSON
+ark,GPE
+7 24,DATE
+8 1,DATE
+Noah,PERSON
+ark,GPE
+8 2,CARDINAL
+8 3,DATE
+the end of the hundred and fifty days,DATE
+8 4,DATE
+the seventh month,DATE
+the seventeenth day,DATE
+month,DATE
+Ararat,ORG
+8 5,DATE
+the tenth month,DATE
+the  tenth month,DATE
+the first day of the month,DATE
+8 6,DATE
+the end of forty days,DATE
+Noah,PERSON
+ark,GPE
+8 7,DATE
+earth,LOC
+8 8,DATE
+8 9,CARDINAL
+ark,GPE
+8 10,DATE
+seven days,DATE
+ark,GPE
+evening,TIME
+Noah,PERSON
+earth,LOC
+8 12,DATE
+seven days,DATE
+8 13,EVENT
+six hundredth and first year,DATE
+the  first month  the first day of the month,DATE
+Noah,PERSON
+8 14,DATE
+the second month,DATE
+the seven and twentieth day,DATE
+the  month,DATE
+8 15,DATE
+Noah,PERSON
+8 16,DATE
+8 17,DATE
+earth,LOC
+8 18,DATE
+Noah,PERSON
+8 19,CARDINAL
+ark,GPE
+Noah,PERSON
+8 21,DATE
+8 22,DATE
+summer,DATE
+winter  and day,DATE
+night,TIME
+9 1,DATE
+Noah,PERSON
+earth,LOC
+9 2,DATE
+9 3,TIME
+9 4,CARDINAL
+9 5,DATE
+sheddeth,GPE
+9 7,DATE
+9 8,DATE
+Noah,PERSON
+9 9,DATE
+9 10,DATE
+ark,GPE
+earth,LOC
+9 11,DATE
+earth,LOC
+9 12,DATE
+9 13,DATE
+9 14,DATE
+9 15,DATE
+9 16,DATE
+earth,LOC
+9 17,DATE
+Noah,PERSON
+earth,LOC
+9 18,DATE
+Noah,PERSON
+Shem,PERSON
+Ham,ORG
+Japheth  ,PERSON
+Ham,ORG
+Canaan,GPE
+9 19,CARDINAL
+three,CARDINAL
+Noah,PERSON
+9 20,DATE
+Noah,PERSON
+9 21,DATE
+9 22,DATE
+Canaan,GPE
+two,CARDINAL
+9 23,DATE
+Shem,PERSON
+Japheth,PERSON
+9 24,DATE
+Noah,PERSON
+9 25,DATE
+Canaan,GPE
+9 26,DATE
+Shem,PERSON
+Canaan,GPE
+9 27,CARDINAL
+Japheth,PERSON
+Shem,PERSON
+Canaan,GPE
+9 28,DATE
+Noah,PERSON
+9 29,DATE
+Noah,PERSON
+nine hundred and fifty years,DATE
+10 1,DATE
+Noah,PERSON
+Shem  Ham,PERSON
+Japheth,PERSON
+10 2,CARDINAL
+Japheth  Gomer,PERSON
+Magog,ORG
+Madai,GPE
+Javan,ORG
+Tubal,NORP
+Meshech,PERSON
+Tiras,ORG
+10 3,DATE
+Gomer,PERSON
+Ashkenaz,NORP
+Riphath,ORG
+Togarmah,ORG
+10 4,DATE
+Javan  Elishah,ORG
+Tarshish  Kittim,PERSON
+Dodanim     ,LAW
+Gentiles,GPE
+10 6,DATE
+Ham  Cush,PERSON
+Mizraim,PERSON
+Canaan,GPE
+10 7,DATE
+Cush,PERSON
+Havilah,ORG
+Sabtah,ORG
+Raamah,ORG
+Sabtechah  ,PERSON
+Raamah  Sheba,ORG
+Dedan,PRODUCT
+10 8,DATE
+Cush,PERSON
+Nimrod,GPE
+earth,LOC
+10 9,DATE
+Nimrod,GPE
+10 10,DATE
+Accad,PERSON
+Shinar,ORG
+10 11 Out,DATE
+Nineveh,GPE
+Rehoboth,GPE
+Calah,ORG
+10 12,DATE
+Nineveh,GPE
+Calah,ORG
+10 13,DATE
+Mizraim,PERSON
+Ludim,PERSON
+Lehabim,ORG
+Naphtuhim,ORG
+10 14,CARDINAL
+Pathrusim,ORG
+Casluhim,ORG
+Philistim,PERSON
+Caphtorim,ORG
+10 15,DATE
+Canaan,GPE
+Sidon,GPE
+first,ORDINAL
+Heth  ,PERSON
+10 16,DATE
+Amorite,PRODUCT
+Girgasite,PERSON
+10 17,DATE
+Hivite,ORG
+Arkite,ORG
+Zemarite,PERSON
+Hamathite,PERSON
+10 19,DATE
+Canaanites,NORP
+Sidon,GPE
+Gerar  unto,PERSON
+Gaza,GPE
+thou goest  unto,PERSON
+Gomorrah,ORG
+Admah,ORG
+Lasha,PERSON
+10 20,DATE
+Ham,ORG
+10 21,DATE
+Unto Shem,PERSON
+Eber,PERSON
+Japheth,PERSON
+10 22,DATE
+Shem  Elam,PERSON
+Asshur,ORG
+Arphaxad,ORG
+Lud,ORG
+Aram,PERSON
+10 23,DATE
+Aram  Uz  and,PERSON
+Mash,ORG
+10 24,DATE
+Arphaxad,ORG
+Salah  ,PERSON
+Salah begat Eber,PERSON
+10 25,DATE
+Eber,PERSON
+two,CARDINAL
+one,CARDINAL
+Peleg,PERSON
+his days,DATE
+Joktan,GPE
+10 26,DATE
+Joktan,GPE
+Almodad,GPE
+Sheleph,PERSON
+Hazarmaveth,GPE
+Jerah,GPE
+10 27,DATE
+Hadoram,ORG
+Uzal,ORG
+Diklah,ORG
+10 28,DATE
+Obal  and,PERSON
+Abimael,PERSON
+Sheba,PERSON
+10 29,DATE
+Ophir,GPE
+Havilah,ORG
+Jobab,ORG
+Joktan,GPE
+10 30,DATE
+Mesha,PERSON
+thou goest,PERSON
+Sephar,PERSON
+10 31,CARDINAL
+Shem,PERSON
+10 32,CARDINAL
+Noah,PERSON
+11 1,DATE
+one,CARDINAL
+one,CARDINAL
+11 2,DATE
+Shinar,ORG
+11 3,DATE
+one,CARDINAL
+11 5,DATE
+11 6,DATE
+one,CARDINAL
+11 7 Go,WORK_OF_ART
+11 8,DATE
+11 9,DATE
+Babel,PRODUCT
+11 10,CARDINAL
+Shem  Shem,PERSON
+an hundred years  old,DATE
+Arphaxad,ORG
+two years,DATE
+11 11,DATE
+Shem  ,PERSON
+Arphaxad,ORG
+five hundred years  ,DATE
+11 12,DATE
+Arphaxad,ORG
+five and thirty years  and,DATE
+Salah  11,PERSON
+Arphaxad,ORG
+four hundred and,CARDINAL
+11 14,DATE
+Salah,PERSON
+thirty years,DATE
+Eber,PERSON
+11 15,DATE
+Salah  ,PERSON
+Eber,PERSON
+four hundred and three years,DATE
+11 16,DATE
+Eber,PERSON
+four and thirty years  ,DATE
+Peleg,PERSON
+11 17,DATE
+Eber,PERSON
+Peleg,PERSON
+four hundred and thirty years,DATE
+11 18,DATE
+Peleg,PERSON
+thirty years,DATE
+Reu  11 19,PRODUCT
+Peleg,PERSON
+Reu two hundred and nine years  ,PRODUCT
+11 20,DATE
+Reu,NORP
+two and thirty years  ,DATE
+Serug,ORG
+11 21,CARDINAL
+Reu,NORP
+Serug,ORG
+11 22,DATE
+Serug,ORG
+thirty years,DATE
+11 23,DATE
+Serug,ORG
+two hundred years  ,DATE
+11 24,DATE
+Nahor,PERSON
+nine and twenty years,DATE
+Terah,GPE
+11,CARDINAL
+Nahor,PERSON
+Terah,GPE
+11 26,DATE
+Terah,GPE
+seventy years,DATE
+Abram  Nahor,PERSON
+Haran,NORP
+11 27,DATE
+Terah,GPE
+Nahor,PERSON
+Haran,NORP
+Haran,NORP
+11 28,DATE
+Haran,PERSON
+Terah,PERSON
+11 29,DATE
+Abram,PERSON
+Nahor,PERSON
+Abram,PERSON
+Sarai,PERSON
+Nahor,PERSON
+Milcah,PERSON
+Haran,PERSON
+Milcah,PERSON
+Iscah,NORP
+11 30,DATE
+Sarai,PERSON
+11 31,DATE
+Terah,PERSON
+Abram,PERSON
+Haran,PERSON
+Sarai,PERSON
+Abram,PERSON
+Chaldees,NORP
+Canaan,GPE
+Haran,NORP
+11 32,DATE
+Terah,GPE
+two hundred and five years,DATE
+Terah,ORG
+Haran,LOC
+12 1,DATE
+Abram  Get,PERSON
+12 2,DATE
+12 3,DATE
+12 4,DATE
+Abram,PERSON
+Lot,PERSON
+Abram,PERSON
+seventy and five years old,DATE
+Haran,LANGUAGE
+12 5,DATE
+Abram,PERSON
+Sarai,PERSON
+Haran,NORP
+Canaan,GPE
+Canaan,GPE
+12 6,DATE
+Abram,PERSON
+Sichem,ORG
+Moreh,ORG
+Canaanite,NORP
+12 7,DATE
+Abram,PERSON
+12 8,DATE
+Bethel,GPE
+Bethel,ORG
+Hai,PERSON
+12 9,DATE
+Abram,PERSON
+12 10,DATE
+Abram,PERSON
+Egypt,GPE
+12 11,DATE
+Egypt,GPE
+Sarai,PERSON
+12 12,DATE
+Egyptians,NORP
+12 14,DATE
+Abram,PERSON
+Egypt,GPE
+Egyptians,NORP
+12 15,CARDINAL
+Pharaoh,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+12 16,DATE
+Abram,PERSON
+menservants,PERSON
+12 17,DATE
+Pharaoh,PERSON
+Sarai Abram s,PERSON
+12 18,DATE
+Pharaoh,PERSON
+Abram,PERSON
+12 19,DATE
+12 20,DATE
+Pharaoh,PERSON
+13 1,DATE
+Abram,PERSON
+Egypt,GPE
+Lot,PERSON
+13 2,DATE
+Abram,PERSON
+13 3,DATE
+Bethel,GPE
+Bethel,ORG
+first,ORDINAL
+Abram,PERSON
+13 5,DATE
+Abram,PERSON
+13 6,DATE
+13 7,DATE
+Abram,PERSON
+Lot s,ORG
+Canaanite,NORP
+Perizzite,ORG
+13 8,DATE
+Abram,PERSON
+13 9,TIME
+13 10,DATE
+Jordan,GPE
+Gomorrah,PERSON
+Egypt,GPE
+Zoar,GPE
+13 11,DATE
+Jordan,GPE
+Canaan,GPE
+Lot,PERSON
+Sodom,GPE
+13 13,DATE
+Sodom,PERSON
+13 14,DATE
+Abram,PERSON
+Lot,PERSON
+13 15,CARDINAL
+13 16,DATE
+13 18,DATE
+Abram,PERSON
+Mamre,ORG
+Hebron,GPE
+14 1,DATE
+the days,DATE
+Amraphel,PERSON
+Shinar   Arioch,ORG
+Ellasar,ORG
+Elam,PERSON
+14 2,DATE
+Bera,PERSON
+Birsha,GPE
+Gomorrah  ,PERSON
+Shinab,PERSON
+Admah,ORG
+Shemeber,ORG
+Zeboiim,PERSON
+Bela,PERSON
+Zoar,GPE
+14 3,DATE
+Siddim,ORG
+14 4,DATE
+Twelve years,DATE
+Chedorlaomer,PERSON
+the thirteenth year,DATE
+14 5,DATE
+the fourteenth year,DATE
+Chedorlaomer,PERSON
+Rephaims,PERSON
+Ashteroth Karnaim,PERSON
+Zuzims,DATE
+Shaveh Kiriathaim,PERSON
+14 6,DATE
+Horites,ORG
+Elparan,WORK_OF_ART
+14 7,DATE
+Enmishpat,PERSON
+Kadesh,GPE
+Amalekites,NORP
+Amorites,ORG
+Hazezontamar,GPE
+14 8,DATE
+Admah,ORG
+Zeboiim,PERSON
+Bela,PERSON
+Zoar,GPE
+Siddim,ORG
+14 9,DATE
+Chedorlaomer,PERSON
+Elam,PERSON
+Amraphel,PERSON
+Shinar,ORG
+Arioch,ORG
+Ellasar,ORG
+four,CARDINAL
+five,CARDINAL
+14 10,EVENT
+Siddim,ORG
+Sodom,GPE
+Gomorrah,PERSON
+14 11,DATE
+Sodom,GPE
+14 12,DATE
+Lot  Abram s,PERSON
+Sodom,GPE
+14 13,DATE
+Abram,PERSON
+Hebrew,LANGUAGE
+Mamre,GPE
+Amorite,PRODUCT
+Eshcol,PERSON
+Aner,PERSON
+Abram,PERSON
+14 14,DATE
+Abram,PERSON
+three hundred,CARDINAL
+eighteen,CARDINAL
+Dan,PERSON
+14 15,DATE
+Hobah,PERSON
+Damascus,GPE
+14 16,DATE
+14 17,DATE
+Sodom,PERSON
+Chedorlaomer,PERSON
+Shaveh,ORG
+s dale,PERSON
+14 18,DATE
+Melchizedek king,PERSON
+Salem,GPE
+14 19,DATE
+Abram,PERSON
+14 20,DATE
+14 21,DATE
+Sodom,PERSON
+Abram  Give,PERSON
+14 22,DATE
+Abram,PERSON
+Sodom,PERSON
+14 23,DATE
+shoelatchet,PERSON
+Abram,PERSON
+14 24 Save,DATE
+Aner  Eshcol,PERSON
+Mamre,ORG
+15 1,CARDINAL
+Abram,PERSON
+Abram,PERSON
+15 2,DATE
+Abram,PERSON
+Damascus,GPE
+15 3,DATE
+Abram,PERSON
+one,CARDINAL
+15 4,DATE
+15 5,DATE
+15 6,DATE
+15 7,DATE
+Chaldees,NORP
+15 8,DATE
+15 9,DATE
+three years old,DATE
+three years old,DATE
+three years old,DATE
+15 10,DATE
+15 11,DATE
+Abram,PERSON
+15 12,DATE
+Abram,PERSON
+15 13,DATE
+Abram  Know,PERSON
+four hundred years  ,DATE
+15 15,DATE
+15 16,EVENT
+fourth,ORDINAL
+Amorites,LOC
+15 17,DATE
+15 18,DATE
+the same day,DATE
+Abram,PERSON
+Egypt,GPE
+Euphrates,ORG
+15 19,CARDINAL
+Kenizzites,ORG
+Kadmonites,ORG
+15 20,DATE
+Hittites,NORP
+Rephaims,PERSON
+15 21,DATE
+Amorites,ORG
+Girgashites,ORG
+Jebusites,ORG
+16 1,DATE
+Sarai Abram,PERSON
+Egyptian,NORP
+Hagar,PERSON
+16 2,DATE
+Sarai,PERSON
+Abram  ,PERSON
+Abram,PERSON
+Sarai,PERSON
+16 3,DATE
+Sarai Abram s,PERSON
+Hagar,PERSON
+Egyptian,NORP
+Abram,PERSON
+ten years,DATE
+Canaan,GPE
+Abram,PERSON
+16 4,DATE
+Hagar,PERSON
+16 5,DATE
+Sarai,PERSON
+Abram,PERSON
+16 6,DATE
+Abram,PERSON
+Sarai  Behold,PERSON
+Sarai,PERSON
+16 7,DATE
+Shur,ORG
+16 8,DATE
+Hagar  Sarai s,ORG
+Sarai,PERSON
+16 9,DATE
+16 10,DATE
+16 11,DATE
+Ishmael,PERSON
+16 12,DATE
+16 13,DATE
+16 14,DATE
+Beerlahairoi,PERSON
+Kadesh,GPE
+Bered,PRODUCT
+16 15,DATE
+Hagar,PERSON
+Abram,PERSON
+Abram,PERSON
+Hagar,PERSON
+Ishmael,PERSON
+16 16,DATE
+Abram,PERSON
+six years old,DATE
+Hagar,PERSON
+Ishmael,PERSON
+Abram,PERSON
+17 1,DATE
+Abram,PERSON
+ninety years old,DATE
+nine,CARDINAL
+Abram,PERSON
+17 2,DATE
+17 3,DATE
+Abram,PERSON
+17,CARDINAL
+17 5,CARDINAL
+Abram,PERSON
+Abraham,PERSON
+17 6,DATE
+17 7,DATE
+17 8,DATE
+Canaan,GPE
+17 9,DATE
+Abraham  Thou,PERSON
+17 10,DATE
+17 11,DATE
+17 12,DATE
+eight days old,DATE
+17 13,DATE
+17 14,DATE
+17 15,DATE
+Abraham,PERSON
+Sarai,PERSON
+Sarai,PERSON
+Sarah,PERSON
+17 16,DATE
+17 17,EVENT
+Abraham,PERSON
+an hundred years old,DATE
+Sarah,PERSON
+ninety years old,DATE
+17 18,DATE
+Abraham,PERSON
+Ishmael,PERSON
+17 19,DATE
+Sarah,PERSON
+Isaac,PERSON
+17 20,DATE
+Ishmael,PERSON
+twelve,CARDINAL
+17 21,DATE
+Isaac  ,PERSON
+Sarah,PERSON
+the next year,DATE
+17 22,DATE
+Abraham,PERSON
+17 23,DATE
+Abraham,PERSON
+Ishmael,PERSON
+Abraham,PERSON
+17 24,DATE
+Abraham,PERSON
+ninety years old,DATE
+nine,CARDINAL
+17 25,DATE
+Ishmael,PERSON
+thirteen years old,DATE
+17 26,DATE
+the selfsame day,DATE
+Abraham,PERSON
+Ishmael,PERSON
+17 27,DATE
+18 1,DATE
+Mamre,ORG
+three,CARDINAL
+18 3,DATE
+18 4,DATE
+18 5,DATE
+18 6,DATE
+Abraham,PERSON
+Sarah,PERSON
+three,CARDINAL
+18 7,DATE
+Abraham,PERSON
+18 8,DATE
+18 9,DATE
+Sarah,PERSON
+18 10,DATE
+lo  Sarah,PERSON
+Sarah,PERSON
+18 11,DATE
+Abraham,PERSON
+Sarah,PERSON
+Sarah,PERSON
+18 12,DATE
+Sarah,PERSON
+18 13,DATE
+Abraham,PERSON
+Sarah,PERSON
+18 14,DATE
+Sarah,PERSON
+18 15,DATE
+Sarah,PERSON
+Nay,PERSON
+18 16,DATE
+Abraham,PERSON
+18 17,DATE
+Abraham,PERSON
+18 18,DATE
+Abraham,PERSON
+18 19,DATE
+Abraham,PERSON
+18 20,DATE
+Sodom,GPE
+Gomorrah,PERSON
+18 21,DATE
+18 22,DATE
+Abraham,PERSON
+18 23,DATE
+Abraham,PERSON
+Wilt thou,PERSON
+18 24,DATE
+fifty,CARDINAL
+fifty,CARDINAL
+18 25,DATE
+18 26,DATE
+fifty,CARDINAL
+18 27,DATE
+Abraham,PERSON
+18 28  Peradventure,DATE
+five,CARDINAL
+fifty,CARDINAL
+five,CARDINAL
+forty,DATE
+five,CARDINAL
+18 29,DATE
+Peradventure,PERSON
+forty,DATE
+forty,CARDINAL
+18 30,DATE
+Peradventure,PERSON
+thirty,CARDINAL
+18 31,DATE
+twenty,CARDINAL
+18 32,DATE
+Peradventure,PERSON
+ten,CARDINAL
+18 33,DATE
+Abraham,PERSON
+Abraham,PERSON
+19 1,DATE
+two,CARDINAL
+Lot,PERSON
+19 2,DATE
+Nay,PERSON
+19 4,DATE
+every quarter,DATE
+19 6,DATE
+19 7,DATE
+19 8 Behold,DATE
+two,CARDINAL
+19 9,DATE
+19 10,DATE
+19 11,DATE
+19 12,DATE
+Lot  Hast,PERSON
+19 13,DATE
+19 14,DATE
+19 15,DATE
+the morning,TIME
+Arise,PERSON
+two,CARDINAL
+19 16,DATE
+two,CARDINAL
+19 17,DATE
+19 18,DATE
+19 19,DATE
+19 20  ,DATE
+19 21,DATE
+19 22,DATE
+Zoar,GPE
+19 23,TIME
+Zoar,GPE
+19 24,DATE
+19 25,DATE
+19 26,DATE
+19 27,DATE
+Abraham gat,PERSON
+early in the morning,TIME
+19 28,DATE
+Sodom,GPE
+Gomorrah,GPE
+19 29,DATE
+Abraham,PERSON
+19 30,DATE
+Zoar,GPE
+two,CARDINAL
+Zoar,GPE
+two,CARDINAL
+19 31,DATE
+19,CARDINAL
+19 33,DATE
+19 34,DATE
+morrow,DATE
+this night,TIME
+19 35,DATE
+19 36,DATE
+19 37,DATE
+first,ORDINAL
+Moab,GPE
+Moabites,NORP
+19 38,DATE
+Benammi,PERSON
+Ammon,NORP
+this  day,DATE
+20 1,DATE
+Abraham,PERSON
+Kadesh,GPE
+Shur,ORG
+Gerar,ORG
+20 2,DATE
+Abraham,PERSON
+Sarah,PERSON
+Abimelech,PERSON
+Gerar,PERSON
+Sarah,PERSON
+20 3,DATE
+Abimelech,PERSON
+night,TIME
+20 4,DATE
+Abimelech,PERSON
+20,CARDINAL
+20 6,DATE
+20 7 Now,EVENT
+20 8,DATE
+Abimelech,PERSON
+early in the morning,TIME
+20 9,DATE
+Abimelech,PERSON
+Abraham,PERSON
+20 10,DATE
+Abimelech,PERSON
+Abraham,PERSON
+20 11,DATE
+Abraham,PERSON
+20 12,DATE
+20 13,DATE
+20 14,DATE
+Abimelech,PERSON
+menservants,PERSON
+Abraham,PERSON
+Sarah,PERSON
+20 15,DATE
+Abimelech,PERSON
+20 16,DATE
+Sarah,PERSON
+20 17,DATE
+Abraham,PERSON
+Abimelech,PERSON
+20 18,DATE
+Abimelech,ORG
+Sarah Abraham s,PERSON
+21 1,DATE
+Sarah,PERSON
+Sarah,PERSON
+21 2,DATE
+Sarah,PERSON
+Abraham,PERSON
+21 3,DATE
+Abraham,PERSON
+Sarah,PERSON
+Isaac,PERSON
+21 4,DATE
+Abraham,PERSON
+Isaac,PERSON
+eight days old,DATE
+21 5,DATE
+Abraham,PERSON
+an hundred years old,DATE
+Isaac,PERSON
+21 6,DATE
+Sarah,PERSON
+21 7,DATE
+Abraham,PERSON
+Sarah,PERSON
+21 8,DATE
+Abraham,PERSON
+the same day,DATE
+Isaac,PERSON
+21 9,DATE
+Sarah,PERSON
+Hagar,PERSON
+Egyptian,NORP
+Abraham,PERSON
+21 10,DATE
+Abraham  Cast,PERSON
+Isaac,PERSON
+21 11,DATE
+Abraham,PERSON
+21 12,DATE
+Abraham,PERSON
+bondwoman,PERSON
+Sarah  hath,PERSON
+Isaac,PERSON
+21 13,DATE
+bondwoman,PERSON
+21 14,DATE
+Abraham,PERSON
+early in the,TIME
+morning,TIME
+Hagar,PERSON
+Beersheba,GPE
+21 15,DATE
+21 16,DATE
+21 17,DATE
+God,PERSON
+Hagar,PERSON
+Hagar,PERSON
+21 19,DATE
+21 20,DATE
+21 21,DATE
+Paran,LANGUAGE
+Egypt,GPE
+21 22,DATE
+Abimelech,PERSON
+Phichol,ORG
+Abraham,PERSON
+21 23,DATE
+21 24,DATE
+Abraham,PERSON
+21 25,DATE
+Abraham,PERSON
+Abimelech,PERSON
+Abimelech,ORG
+21 26,DATE
+Abimelech,PERSON
+21 27,DATE
+Abraham,PERSON
+Abimelech,PERSON
+21 28,DATE
+Abraham,PERSON
+seven,CARDINAL
+ewe,ORG
+21 29,DATE
+Abimelech,PERSON
+Abraham,PERSON
+seven,CARDINAL
+ewe,ORG
+21 30,DATE
+seven,CARDINAL
+ewe,ORG
+21 31,DATE
+Beersheba,PERSON
+21 32,DATE
+Beersheba,GPE
+Abimelech,PERSON
+Phichol,ORG
+Philistines,NORP
+21 33,DATE
+Abraham,PERSON
+Beersheba,GPE
+21 34,DATE
+Abraham,PERSON
+Philistines,NORP
+many days,DATE
+22 1,DATE
+Abraham,PERSON
+Abraham,PERSON
+22 2,DATE
+Isaac  ,PERSON
+Moriah,ORG
+22 3,DATE
+Abraham,PERSON
+early in the,TIME
+morning,TIME
+two,CARDINAL
+Isaac,PERSON
+22 4,DATE
+the third day,DATE
+Abraham,PERSON
+22 5,DATE
+Abraham,PERSON
+22 6,DATE
+Abraham,PERSON
+Isaac,PERSON
+22 7,DATE
+Isaac spake,PERSON
+Abraham,PERSON
+22 8,DATE
+Abraham,PERSON
+22 9,DATE
+Abraham  ,PERSON
+Isaac,PERSON
+22 10,DATE
+Abraham,PERSON
+22 11,DATE
+Abraham  Abraham,PERSON
+22 12,DATE
+22 13,DATE
+Abraham,PERSON
+Abraham,PERSON
+22 14,DATE
+Abraham,PERSON
+Jehovahjireh,PERSON
+this day,DATE
+22 15,DATE
+Abraham,PERSON
+second,ORDINAL
+22 16,DATE
+22 17,DATE
+22 18,DATE
+22 19,EVENT
+Abraham,PERSON
+Beersheba,GPE
+Abraham,PERSON
+Beersheba,GPE
+22 20,DATE
+Abraham,PERSON
+Behold  Milcah,PERSON
+Nahor,PERSON
+22 21,DATE
+Buz,PERSON
+Kemuel,PERSON
+Aram,PERSON
+22 22,DATE
+Chesed,ORG
+Hazo,ORG
+Jidlaph,PERSON
+Bethuel,PERSON
+22 23,DATE
+Bethuel begat Rebekah,PERSON
+eight,CARDINAL
+Milcah,PERSON
+Nahor   Abraham,PERSON
+22 24,DATE
+Reumah,PERSON
+Tebah,GPE
+Gaham,PERSON
+Thahash,PERSON
+23 1,DATE
+Sarah,PERSON
+an hundred and seven and,CARDINAL
+the years,DATE
+Sarah,PERSON
+23 2,DATE
+Sarah,PERSON
+Kirjatharba,ORG
+Hebron,GPE
+Canaan,GPE
+Abraham,PERSON
+Sarah,PERSON
+23 3,DATE
+Abraham,PERSON
+Heth,PERSON
+23 4,DATE
+23 5,DATE
+Heth,PERSON
+Abraham,PERSON
+23 6,DATE
+thou mayest,PERSON
+23 7,DATE
+Abraham,PERSON
+Heth,PERSON
+23 8,DATE
+Ephron,PERSON
+Zohar,PERSON
+23 9,DATE
+Machpelah,ORG
+23 10,DATE
+Ephron,ORG
+Heth,PERSON
+Ephron,ORG
+Hittite,NORP
+Abraham,PERSON
+Heth,PERSON
+23,CARDINAL
+23 12,DATE
+Abraham,PERSON
+23 13,DATE
+Ephron,PERSON
+23 14,DATE
+Ephron,PERSON
+Abraham,PERSON
+23 15,DATE
+four hundred shekels,MONEY
+23 16,DATE
+Abraham,PERSON
+Ephron,ORG
+Abraham,PERSON
+Ephron,ORG
+Heth,GPE
+four hundred shekels,MONEY
+23 17,DATE
+Ephron,ORG
+Machpelah,GPE
+Mamre,ORG
+23 18,DATE
+Unto Abraham,PERSON
+Heth,PERSON
+23 19,DATE
+Abraham,PERSON
+Sarah,PERSON
+Machpelah,GPE
+Mamre,ORG
+Hebron,GPE
+Canaan,GPE
+23 20,DATE
+Abraham,PERSON
+Heth,PERSON
+24 1,DATE
+Abraham,PERSON
+Abraham,PERSON
+24 2,DATE
+Abraham,PERSON
+24,CARDINAL
+Canaanites,NORP
+24 4,DATE
+Isaac,PERSON
+24 5,DATE
+thou camest  ,PERSON
+24 6,DATE
+Abraham,PERSON
+24 7,TIME
+24 8,DATE
+24 9,DATE
+Abraham,PERSON
+24 10,DATE
+ten,CARDINAL
+Mesopotamia,GPE
+Nahor,GPE
+24 11,DATE
+evening,TIME
+24 12,DATE
+Abraham,PERSON
+this day,DATE
+Abraham,PERSON
+24 13,DATE
+24 14,DATE
+Isaac,PERSON
+24 15,DATE
+Rebekah,PERSON
+Bethuel  son,PERSON
+Milcah,PERSON
+Nahor  Abraham,PERSON
+24 16,DATE
+24 17,DATE
+24 18,DATE
+24 19,DATE
+24 20,DATE
+24 21,DATE
+24 22,DATE
+half,CARDINAL
+two,CARDINAL
+ten shekels,MONEY
+24 23,DATE
+24 24,DATE
+Bethuel,PERSON
+Milcah,PERSON
+Nahor,PERSON
+24 25,DATE
+24 26,DATE
+24 27,DATE
+Abraham,PERSON
+24 28,DATE
+24 29,DATE
+Rebekah,PERSON
+Laban,PERSON
+Laban,PERSON
+24 30,DATE
+Rebekah,PERSON
+24 31,DATE
+24 32,DATE
+24 33,DATE
+24 34,DATE
+Abraham,PERSON
+24 35,DATE
+menservants,PERSON
+24 36,DATE
+Sarah,PERSON
+24 37,DATE
+Canaanites,NORP
+24 38,DATE
+24 39,DATE
+24 40,DATE
+24 41,DATE
+one,CARDINAL
+24 42,DATE
+this day,DATE
+Abraham,PERSON
+24,CARDINAL
+24 44,DATE
+24 45,DATE
+Rebekah,PERSON
+24 46,DATE
+24 47,DATE
+Bethuel  Nahor s,PERSON
+Milcah,PERSON
+24 48,DATE
+Abraham,PERSON
+24 49,DATE
+24 50,DATE
+Bethuel,PERSON
+24,CARDINAL
+51,CARDINAL
+Behold  ,PERSON
+Rebekah,PERSON
+24 52,DATE
+Abraham,PERSON
+earth,LOC
+24 53,DATE
+Rebekah,PERSON
+24 54,DATE
+morning,TIME
+24 55,DATE
+a few days,DATE
+the least ten,CARDINAL
+24 56,DATE
+24 57,DATE
+24 58,DATE
+Rebekah,PERSON
+24 59,DATE
+Rebekah,PERSON
+Abraham,PERSON
+24 60,DATE
+Rebekah,PERSON
+thousands of millions,CARDINAL
+24 61,DATE
+Rebekah,PERSON
+Rebekah,PERSON
+24 62,DATE
+Isaac,PERSON
+Lahairoi,ORG
+24 63,DATE
+Isaac,PERSON
+24 64,DATE
+Rebekah,PERSON
+Isaac,PERSON
+24 65,DATE
+24 66,DATE
+Isaac,PERSON
+24 67,DATE
+Isaac,PERSON
+Sarah,PERSON
+Rebekah,PERSON
+Isaac,PERSON
+25 1,DATE
+Abraham,PERSON
+Keturah,PERSON
+25 2,DATE
+Zimran,ORG
+Jokshan,ORG
+Medan,ORG
+Midian,NORP
+Ishbak,ORG
+Shuah,PRODUCT
+25 3,DATE
+Jokshan,NORP
+Sheba,GPE
+Dedan,ORG
+Dedan,ORG
+Letushim,ORG
+Leummim,NORP
+25 4,DATE
+Midian,NORP
+Hanoch,GPE
+Eldaah  All,ORG
+Keturah,PERSON
+25 5,DATE
+Abraham,PERSON
+Isaac,PERSON
+25 6,DATE
+Abraham,PERSON
+Abraham,PERSON
+Isaac,PERSON
+25 7,DATE
+the days of the years,DATE
+Abraham,PERSON
+an hundred threescore and,CARDINAL
+25 8,DATE
+Abraham,PERSON
+years,DATE
+25 9,DATE
+Isaac,PERSON
+Ishmael,PERSON
+Machpelah,ORG
+Ephron,ORG
+Zohar,PERSON
+Hittite,NORP
+Mamre,ORG
+25 10,CARDINAL
+Abraham,PERSON
+Heth,PERSON
+Abraham,PERSON
+Sarah,PERSON
+25 11,DATE
+Abraham,PERSON
+Isaac  ,PERSON
+Isaac,PERSON
+Lahairoi,ORG
+25 12,DATE
+Ishmael  Abraham s,PERSON
+Hagar,PERSON
+Egyptian,NORP
+Sarah,PERSON
+Abraham  ,PERSON
+25 13,DATE
+Ishmael,PERSON
+Ishmael  Nebajoth  ,PERSON
+Kedar,ORG
+Adbeel,ORG
+Mibsam,PERSON
+25 14,DATE
+Dumah,PERSON
+Massa,GPE
+25,CARDINAL
+Hadar,ORG
+Tema  Jetur,ORG
+Naphish,ORG
+Kedemah,ORG
+25 16,CARDINAL
+Ishmael,PERSON
+twelve,CARDINAL
+25 17,DATE
+the years,DATE
+Ishmael  an hundred,PERSON
+thirty and seven years,DATE
+25 18,DATE
+Havilah,ORG
+Shur,PERSON
+Egypt,GPE
+Assyria,GPE
+25 19,DATE
+Isaac  Abraham s,PERSON
+Abraham  begat,PERSON
+Isaac  25 20,PERSON
+Isaac,PERSON
+forty years old,DATE
+Rebekah,PERSON
+Bethuel,PERSON
+Syrian,NORP
+Laban,PERSON
+Syrian,NORP
+25 21,DATE
+Isaac,PERSON
+Rebekah,PERSON
+25 22,DATE
+25 23,DATE
+Two,CARDINAL
+two,CARDINAL
+one,CARDINAL
+25 24,DATE
+25 25,DATE
+first,ORDINAL
+Esau,PERSON
+25 26,DATE
+Jacob  and,PERSON
+Isaac,PERSON
+threescore  years old,DATE
+25 27,DATE
+Esau,PERSON
+Jacob,PERSON
+25 28,DATE
+Isaac,PERSON
+Rebekah,PERSON
+Jacob,PERSON
+25 29,DATE
+Jacob,PERSON
+Esau,PERSON
+25 30,DATE
+Esau,PERSON
+Jacob  Feed,PERSON
+Edom,ORG
+25 31,DATE
+Jacob,PERSON
+this day,DATE
+25 32,DATE
+Esau,PERSON
+25 33,DATE
+Jacob,PERSON
+this day,DATE
+Jacob,PERSON
+25 34,DATE
+Jacob,PERSON
+Esau,PERSON
+26 1,DATE
+first,ORDINAL
+the days,DATE
+Abraham,PERSON
+Isaac,PERSON
+Abimelech,PERSON
+Philistines,NORP
+26 2,DATE
+Egypt,GPE
+26 3,DATE
+Abraham,PERSON
+26 4,DATE
+26 5,DATE
+Abraham,PERSON
+26 6,DATE
+Isaac,PERSON
+Gerar,ORG
+26 7,DATE
+Rebekah,PERSON
+26 8,DATE
+Abimelech,PERSON
+Philistines,NORP
+Isaac,PERSON
+Rebekah,PERSON
+26 9,DATE
+Abimelech,PERSON
+Isaac,PERSON
+Isaac,PERSON
+Lest,PERSON
+26 10,EVENT
+Abimelech,PERSON
+26 11,DATE
+Abimelech,PERSON
+26 12,DATE
+Isaac,PERSON
+the same year,DATE
+26 13,DATE
+26 14,DATE
+Philistines,NORP
+26 15,DATE
+the  days,DATE
+Abraham,PERSON
+Philistines,NORP
+26 16,DATE
+Abimelech,PERSON
+Isaac  Go,PERSON
+26 17,DATE
+Isaac,PERSON
+Gerar,ORG
+26 18,DATE
+Isaac,PERSON
+the days,DATE
+Abraham,PERSON
+Philistines,NORP
+Abraham,PERSON
+26 19,DATE
+Isaac,PERSON
+26 20,DATE
+Gerar,PERSON
+Isaac,PERSON
+Esek,GPE
+26 21,DATE
+Sitnah,ORG
+26 22,DATE
+Rehoboth,GPE
+26 23,DATE
+Beersheba,GPE
+26 24,DATE
+Abraham,PERSON
+Abraham,PERSON
+26 25,DATE
+Isaac,PERSON
+26 26,DATE
+Abimelech,PERSON
+Gerar,PERSON
+one,CARDINAL
+Phichol,ORG
+26 27,DATE
+Isaac,PERSON
+26 28,DATE
+26 29,DATE
+26 30,DATE
+26 31,DATE
+morning,TIME
+Isaac,PERSON
+26 32,DATE
+the same day,DATE
+Isaac,PERSON
+26 33,DATE
+Shebah,ORG
+Beersheba,GPE
+this day,DATE
+26 34,DATE
+Esau,PERSON
+forty years old,DATE
+Judith the  daughter,PERSON
+Beeri,PERSON
+Hittite,NORP
+Bashemath,ORG
+Elon,PERSON
+Hittite,NORP
+26 35,CARDINAL
+Isaac,PERSON
+Rebekah,PERSON
+27 1,DATE
+Isaac,PERSON
+Esau,PERSON
+27 2,DATE
+27 3 Now,DATE
+27,CARDINAL
+27 5,DATE
+Rebekah,PERSON
+Isaac spake,PERSON
+Esau,PERSON
+venison,PERSON
+27 6,DATE
+Rebekah spake,PERSON
+Jacob,PERSON
+27 7,DATE
+27 8,DATE
+27 9 Go,TIME
+two,CARDINAL
+27 10,DATE
+27 11,DATE
+Jacob,PERSON
+Rebekah,PERSON
+27 12,DATE
+27 13,DATE
+27 14,DATE
+27 15,DATE
+Rebekah,PERSON
+Esau,PERSON
+Jacob,PERSON
+27 16,DATE
+27 17,DATE
+Jacob,PERSON
+27 18,DATE
+27 19,DATE
+Jacob,PERSON
+first,ORDINAL
+thou badest  ,PERSON
+27 20,DATE
+Isaac,PERSON
+27 21,DATE
+Isaac,PERSON
+Jacob  Come,PERSON
+Esau,PERSON
+27 22,DATE
+Jacob,PERSON
+Isaac,PERSON
+Jacob,PERSON
+27 23,DATE
+Esau,PERSON
+27 24,DATE
+Esau,PERSON
+27 25,DATE
+s  venison,PERSON
+27 26,DATE
+Isaac,PERSON
+27 27,DATE
+27 28,DATE
+27 29,CARDINAL
+27 30,DATE
+Isaac,PERSON
+Jacob  and,PERSON
+Jacob,PERSON
+Isaac,PERSON
+27 31,DATE
+s venison,PERSON
+27 32,DATE
+Isaac,PERSON
+27 33,DATE
+Isaac,PERSON
+venison,PERSON
+thou camest,PERSON
+27 34,DATE
+27 35,DATE
+subtilty,ORG
+27 36,DATE
+Jacob  ,PERSON
+two,CARDINAL
+27 37,DATE
+Isaac,PERSON
+27 38,DATE
+Esau,PERSON
+one,CARDINAL
+Esau,PERSON
+27 39,DATE
+Isaac,PERSON
+27 40,DATE
+27 41,DATE
+Jacob,PERSON
+Esau,PERSON
+The days,DATE
+Jacob,PERSON
+27 42,DATE
+Rebekah,PERSON
+Jacob,PERSON
+Esau,PERSON
+27 43,DATE
+Laban,PERSON
+Haran  ,PERSON
+27 44,DATE
+a few days,DATE
+27 45,DATE
+one day  27 46,DATE
+Rebekah,PERSON
+Isaac  I,PERSON
+Heth,PERSON
+Jacob,PERSON
+Heth,PERSON
+28 1,DATE
+Isaac,PERSON
+Jacob  and,PERSON
+Canaan,GPE
+28,CARDINAL
+Padanaram,EVENT
+Bethuel,PERSON
+Laban,PERSON
+28 3,DATE
+thou mayest,PERSON
+28 4,DATE
+Abraham,PERSON
+thou  mayest,ORG
+Abraham,PERSON
+28 5,DATE
+Isaac,PERSON
+Jacob  and,PERSON
+Bethuel,PERSON
+Syrian,NORP
+Rebekah  Jacob s,PERSON
+Esau,PERSON
+28 6,DATE
+Esau,PERSON
+Isaac,PERSON
+Jacob  and,PERSON
+Padanaram,EVENT
+Canaan,GPE
+28 7,DATE
+Jacob,PERSON
+Canaan,GPE
+Isaac,PERSON
+28 9,DATE
+Ishmael  and,PERSON
+Mahalath,ORG
+Ishmael Abraham s,PERSON
+Nebajoth,PERSON
+28 10,DATE
+Jacob,PERSON
+Beersheba,GPE
+Haran,LANGUAGE
+28 11,DATE
+28 12,DATE
+28 13,DATE
+Abraham,PERSON
+Isaac,PERSON
+28 14,DATE
+28 15,DATE
+thou goest  and,PERSON
+28 16,DATE
+Jacob,PERSON
+28 17,DATE
+28 18,DATE
+Jacob,PERSON
+early in the,TIME
+morning,TIME
+28 19,DATE
+Bethel,ORG
+Luz,PRODUCT
+first,ORDINAL
+28 20,DATE
+Jacob,PERSON
+28 21,DATE
+28 22,DATE
+tenth,ORDINAL
+29 1,DATE
+Jacob,PERSON
+29 2,DATE
+three,CARDINAL
+29 3,DATE
+29 4,DATE
+Jacob,PERSON
+Haran,PERSON
+29 5,DATE
+Nahor,PERSON
+29 6,DATE
+Rachel,PERSON
+29 7,DATE
+Lo,PERSON
+29 8,DATE
+29 9,DATE
+Rachel,PERSON
+29 10,DATE
+Jacob,PERSON
+Rachel,PERSON
+Laban,PERSON
+Laban,PERSON
+Jacob,PERSON
+Laban,PERSON
+29 11,DATE
+Jacob,PERSON
+Rachel  and,PERSON
+29 12,DATE
+Jacob,PERSON
+Rachel,PERSON
+Rebekah,PERSON
+29 13,DATE
+Laban,PERSON
+Jacob,PERSON
+Laban,PERSON
+29 14,DATE
+Laban,PERSON
+29 15,DATE
+Laban,PERSON
+Jacob  ,PERSON
+29 16,DATE
+Laban,PERSON
+two,CARDINAL
+Leah,PERSON
+Rachel,PERSON
+Leah,PERSON
+Rachel,PERSON
+29 18,DATE
+Jacob,PERSON
+Rachel  and,PERSON
+seven years,DATE
+Rachel,PERSON
+29 19,DATE
+Laban,PERSON
+29 20,DATE
+Jacob,PERSON
+seven years,DATE
+Rachel  and,PERSON
+a few days,DATE
+29 21,DATE
+Jacob,PERSON
+Laban  Give,PERSON
+my days,DATE
+29 22,EVENT
+Laban,PERSON
+29 23,DATE
+evening,TIME
+Leah,PERSON
+29 24,DATE
+Laban,PERSON
+Leah Zilpah,PERSON
+29 25,DATE
+morning,TIME
+Leah,PERSON
+Laban,PERSON
+Rachel,PERSON
+29 26,DATE
+Laban,PERSON
+29 27,DATE
+week,DATE
+seven other years,DATE
+29 28,DATE
+Jacob,PERSON
+week,DATE
+Rachel  his,PERSON
+29 29,DATE
+Laban,PERSON
+Rachel,PERSON
+Bilhah,PERSON
+29 30,DATE
+Rachel  ,PERSON
+Rachel,PERSON
+Leah,PERSON
+seven other years,DATE
+29 31,DATE
+Leah,PERSON
+Rachel,PERSON
+29 32,DATE
+Leah,PERSON
+Reuben  ,PERSON
+29 33,DATE
+Simeon,PERSON
+29 34,DATE
+three,CARDINAL
+Levi,PERSON
+29 35,DATE
+Judah,PERSON
+30 1,DATE
+Rachel,PERSON
+Jacob,PERSON
+Rachel  ,PERSON
+Jacob  Give,PERSON
+30 2,DATE
+Jacob,PERSON
+Rachel  ,PERSON
+30 3,DATE
+Bilhah,PERSON
+30 4,EVENT
+Jacob,PERSON
+30 5,EVENT
+Bilhah,PERSON
+Jacob,PERSON
+30 6,DATE
+Rachel,PERSON
+Dan,PERSON
+30 7,DATE
+Bilhah Rachel s,PERSON
+Jacob,PERSON
+second,ORDINAL
+30 8,DATE
+Rachel,PERSON
+Naphtali,PERSON
+30 9,DATE
+Leah,PERSON
+Zilpah,PERSON
+Jacob,PERSON
+30 10,DATE
+Zilpah Leah,PERSON
+Jacob,PERSON
+30 11,DATE
+Leah,PERSON
+Gad,PERSON
+30 12,DATE
+Zilpah Leah,PERSON
+Jacob,PERSON
+second,ORDINAL
+30 13,DATE
+Leah,PERSON
+Asher,PERSON
+30 14,DATE
+Reuben,PERSON
+the days,DATE
+Leah,PERSON
+Rachel,PERSON
+Leah  Give,PERSON
+30 15,DATE
+Rachel,PERSON
+30 16,DATE
+Jacob,PERSON
+evening,TIME
+Leah,PERSON
+30 17,EVENT
+Leah,PERSON
+Jacob  ,PERSON
+fifth,ORDINAL
+30 18,DATE
+Leah,PERSON
+Issachar,PERSON
+30 19,DATE
+Leah,PERSON
+Jacob,PERSON
+sixth,ORDINAL
+30 20,DATE
+Leah,PERSON
+six,CARDINAL
+Zebulun,PERSON
+30 21,DATE
+Dinah,PERSON
+30 22,DATE
+Rachel  and,PERSON
+30 23,DATE
+30 24,DATE
+Joseph  ,PERSON
+30 25,DATE
+Rachel,PERSON
+Joseph  ,PERSON
+Jacob  ,PERSON
+Laban  Send,PERSON
+30 26 Give,WORK_OF_ART
+30 27,DATE
+Laban,PERSON
+30 28,DATE
+30 29,DATE
+30 30,DATE
+30 31,DATE
+Jacob,PERSON
+30 32,DATE
+day,DATE
+30 33,DATE
+30 34,DATE
+Laban,PERSON
+30 35,DATE
+30 36,DATE
+three days,DATE
+Jacob  and,PERSON
+Jacob fed,PERSON
+Laban,PERSON
+30 37,DATE
+Jacob,PERSON
+30 38,DATE
+30 39,DATE
+30 40,DATE
+Jacob,PERSON
+Laban,PERSON
+Laban,PERSON
+30 41,DATE
+whensoever,ORG
+Jacob,PERSON
+30 42,DATE
+Laban,PERSON
+Jacob s,PERSON
+30 43,DATE
+menservants,PERSON
+31 1,DATE
+Laban,PERSON
+Jacob hath,PERSON
+31 2,DATE
+Jacob,PERSON
+Laban,PERSON
+31 3,DATE
+Jacob  Return,PERSON
+31 4,DATE
+Jacob,PERSON
+Rachel,PERSON
+Leah,PERSON
+31 5,DATE
+31 6,DATE
+31 7,DATE
+ten,CARDINAL
+31 8,DATE
+31 9,DATE
+31 10,DATE
+31 11,DATE
+Jacob,PERSON
+31 12,DATE
+Laban,PERSON
+31 13,TIME
+31 14,DATE
+Rachel,PERSON
+Leah,PERSON
+31 15,CARDINAL
+31 16,DATE
+31 17,DATE
+Jacob,PERSON
+31 18,DATE
+Padanaram,EVENT
+Isaac,PERSON
+Canaan,GPE
+31 19,DATE
+Laban,PERSON
+Rachel,PERSON
+31 20,DATE
+Jacob,PERSON
+Laban,PERSON
+Syrian,NORP
+31 21,DATE
+Gilead,ORG
+31 22,DATE
+Laban,PERSON
+the third day,DATE
+Jacob,PERSON
+31 23,DATE
+seven  days,DATE
+Gilead,ORG
+31 24,DATE
+Syrian,NORP
+night,TIME
+Jacob,PERSON
+31 25,DATE
+Then Laban,PERSON
+Jacob  Now,PERSON
+Jacob,PERSON
+Laban,PERSON
+Gilead,ORG
+31 26,DATE
+Laban,PERSON
+Jacob  What,PERSON
+31 27,DATE
+31 28,DATE
+31 29,DATE
+Jacob,PERSON
+31 30,DATE
+31 31,DATE
+Jacob,PERSON
+Laban,PERSON
+31 32,DATE
+Jacob,PERSON
+Rachel,PERSON
+31 33,DATE
+Laban,PERSON
+Jacob,PERSON
+Leah,PERSON
+two,CARDINAL
+Leah,PERSON
+Rachel,PERSON
+31 34,DATE
+Rachel,PERSON
+Laban,PERSON
+31 35,DATE
+31 36,DATE
+Jacob,PERSON
+Jacob,PERSON
+Laban,PERSON
+31 37,DATE
+31 38,DATE
+This twenty years,DATE
+31 39,DATE
+day,DATE
+night,TIME
+the day,DATE
+31 41,DATE
+twenty years,DATE
+fourteen years,DATE
+two,CARDINAL
+six years,DATE
+ten,CARDINAL
+31 42,DATE
+Abraham,PERSON
+Isaac,PERSON
+31 43,DATE
+Laban,PERSON
+Jacob  These,PERSON
+31 44,DATE
+31 45,DATE
+Jacob,PERSON
+31 46,DATE
+Jacob,PERSON
+31 47,DATE
+Laban,PERSON
+Jegarsahadutha,PERSON
+Jacob,PERSON
+31 48,DATE
+Laban,PERSON
+this  day,DATE
+31 49,DATE
+Mizpah,PERSON
+one,CARDINAL
+31 50,DATE
+31 51,DATE
+Laban,PERSON
+Jacob  ,PERSON
+31 52,DATE
+31 53,DATE
+Abraham,PERSON
+Nahor,PERSON
+Jacob,PERSON
+Isaac,PERSON
+31 54,DATE
+Jacob,PERSON
+31 55,DATE
+early in the morning,TIME
+Laban,PERSON
+Laban,PERSON
+32 1,DATE
+Jacob,PERSON
+32 2,DATE
+Jacob,PERSON
+Mahanaim,PERSON
+32 3,DATE
+Jacob,PERSON
+Edom,GPE
+32 4,DATE
+Jacob saith,PERSON
+Laban,PERSON
+32 5,DATE
+menservants,PERSON
+32 6,DATE
+Jacob,PERSON
+Esau,PERSON
+four hundred,CARDINAL
+32 7,DATE
+Jacob,PERSON
+two,CARDINAL
+32 8,DATE
+one,CARDINAL
+32 9,DATE
+Jacob,PERSON
+Abraham,PERSON
+Isaac,PERSON
+32 10,DATE
+Jordan,GPE
+two,CARDINAL
+32 11,TIME
+32 12,DATE
+thou saidst  I,PERSON
+32 13,DATE
+32,CARDINAL
+Two hundred,CARDINAL
+twenty,CARDINAL
+two hundred,CARDINAL
+twenty rams  32,QUANTITY
+forty,CARDINAL
+ten,CARDINAL
+twenty,CARDINAL
+ten,CARDINAL
+32 16,DATE
+32 17,DATE
+32 18,DATE
+Jacob s,PERSON
+32 19,DATE
+second,ORDINAL
+third,ORDINAL
+32 20,DATE
+Jacob,PERSON
+32 21,DATE
+32 22,DATE
+night,TIME
+two,CARDINAL
+two,CARDINAL
+eleven,CARDINAL
+ford,ORG
+Jabbok,PERSON
+32 23,DATE
+32 24,DATE
+Jacob,PERSON
+the day,DATE
+32 25,DATE
+Jacob s,PERSON
+32 26,DATE
+the day,DATE
+thou,PERSON
+32 27,DATE
+Jacob,ORG
+32 28,DATE
+Jacob,PERSON
+Israel,GPE
+32 29,DATE
+Jacob,PERSON
+32 30,DATE
+Jacob,PERSON
+32 31,DATE
+Penuel,PERSON
+32 32,DATE
+Israel,GPE
+Jacob s,PERSON
+33 1,DATE
+Jacob,PERSON
+four hundred,CARDINAL
+Leah,PERSON
+Rachel  and,PERSON
+two,CARDINAL
+33 2,DATE
+Leah,PERSON
+Rachel,PERSON
+Joseph hindermost,PERSON
+33 3,DATE
+seven,CARDINAL
+33 4,DATE
+Esau,PERSON
+33 5,DATE
+33 6,DATE
+33 7,DATE
+Leah,PERSON
+Joseph,PERSON
+Rachel  ,PERSON
+33 8,DATE
+33 9,DATE
+Esau,PERSON
+33 10,DATE
+Jacob,PERSON
+Nay,PERSON
+33 11,TIME
+33 12,DATE
+33 13,DATE
+one day,DATE
+33 14,DATE
+33 15,DATE
+Esau,PERSON
+33 16,DATE
+that day,DATE
+33 17,DATE
+Jacob,PERSON
+Succoth  and,PERSON
+Succoth,PERSON
+33 18,DATE
+Jacob,PERSON
+Shalem,GPE
+Shechem,GPE
+Canaan,GPE
+33 19,DATE
+Hamor,PERSON
+Shechem,GPE
+hundred,CARDINAL
+33 20,DATE
+EleloheIsrael,ORG
+34 1 And Dinah,DATE
+Leah,PERSON
+Jacob  ,PERSON
+34 2,DATE
+Shechem,GPE
+Hamor,PERSON
+Hivite,ORG
+34 3,DATE
+Jacob,PERSON
+34 4,DATE
+Shechem,GPE
+Hamor,PERSON
+34 5,DATE
+Jacob,PERSON
+Jacob,PERSON
+34 6,DATE
+Hamor,PERSON
+Shechem,GPE
+Jacob,PERSON
+34 7,DATE
+Jacob,PERSON
+Israel,GPE
+Jacob s,PERSON
+34 8,DATE
+Hamor,PERSON
+Shechem,PERSON
+34 9,DATE
+34 10,DATE
+34 11,DATE
+Shechem,PERSON
+34 12,TIME
+34 13,DATE
+Jacob,PERSON
+Shechem,GPE
+Hamor,PERSON
+34 14,DATE
+34 15,DATE
+34 16,DATE
+one,CARDINAL
+34 17,DATE
+34 18,DATE
+Hamor,PERSON
+Shechem Hamor,PERSON
+34 19,DATE
+Jacob,PERSON
+34 20,DATE
+Hamor,PERSON
+Shechem,GPE
+34 21,CARDINAL
+34 22,TIME
+one,CARDINAL
+34 23,DATE
+34 24,DATE
+Hamor,PERSON
+Shechem,GPE
+34 25,DATE
+the third day,DATE
+two,CARDINAL
+Jacob  Simeon,PERSON
+Levi  Dinah s,PERSON
+34 26,DATE
+Hamor,PERSON
+Shechem,GPE
+Shechem,GPE
+34 27,DATE
+Jacob,PERSON
+34 28,DATE
+34 29,DATE
+34 30,DATE
+Jacob,PERSON
+Simeon,PERSON
+Levi,PERSON
+Canaanites,NORP
+34 31,DATE
+35 1,DATE
+Jacob  Arise,PERSON
+Bethel,GPE
+thou  fleddest,PERSON
+35 2,DATE
+Jacob,PERSON
+35 3,DATE
+Bethel,ORG
+the day,DATE
+35 4,DATE
+Jacob,PERSON
+Jacob,PERSON
+Shechem,ORG
+35 5,DATE
+Jacob,PERSON
+35 6,DATE
+Jacob,PERSON
+Luz,ORG
+Canaan,GPE
+Bethel,ORG
+35 7,DATE
+35 8,DATE
+Deborah Rebekah s,PERSON
+Bethel,ORG
+Allonbachuth,ORG
+35 9,DATE
+Jacob,PERSON
+Padanaram,EVENT
+35 10,DATE
+Jacob  thy,PERSON
+Jacob  ,PERSON
+Israel,GPE
+Israel,GPE
+35 11,DATE
+35 12,DATE
+Abraham,PERSON
+Isaac,PERSON
+35 13,DATE
+35 14,DATE
+Jacob,PERSON
+35 15,DATE
+Jacob,PERSON
+Bethel,ORG
+35 16,DATE
+Bethel,GPE
+Ephrath,GPE
+Rachel,PERSON
+35 17,DATE
+35 18,DATE
+Benoni,PERSON
+Benjamin,ORG
+35 19,DATE
+Rachel,PERSON
+Ephrath,GPE
+Bethlehem,ORG
+35 20,DATE
+Jacob,PERSON
+Rachel s,PERSON
+this day,DATE
+35 21,DATE
+Israel,GPE
+Edar,ORG
+35 22,DATE
+Israel,GPE
+Reuben  ,PERSON
+Bilhah,PERSON
+Israel,GPE
+Jacob,PERSON
+twelve,CARDINAL
+Leah  Reuben   Jacob s,PERSON
+Simeon,PERSON
+Levi,PERSON
+Judah,GPE
+Issachar,ORG
+Zebulun,ORG
+35,CARDINAL
+Rachel  Joseph,PERSON
+Benjamin  ,PERSON
+35 25,DATE
+Bilhah,PERSON
+Rachel,PERSON
+Dan,PERSON
+Naphtali,PERSON
+35 26,DATE
+Zilpah,PERSON
+Leah,PERSON
+Gad,PERSON
+Asher,PERSON
+Jacob,PERSON
+Padanaram,DATE
+35 27,DATE
+Jacob,PERSON
+Isaac,PERSON
+Mamre,ORG
+Arbah,ORG
+Hebron,GPE
+Abraham,PERSON
+Isaac,PERSON
+35 28,DATE
+Isaac,PERSON
+an hundred and fourscore years,CARDINAL
+35 29,DATE
+Isaac,PERSON
+days,DATE
+Esau,PERSON
+Jacob,PERSON
+36 1,DATE
+Edom,GPE
+36,CARDINAL
+Canaan,GPE
+Elon,ORG
+Hittite,NORP
+Aholibamah,NORP
+Anah,GPE
+Zibeon,NORP
+Hivite,ORG
+36 3,DATE
+Bashemath Ishmael s,ORG
+Nebajoth,PERSON
+36 4,DATE
+Esau Eliphaz,PERSON
+Bashemath,ORG
+Reuel,PERSON
+36 5,DATE
+Aholibamah,NORP
+Jeush,PERSON
+Jaalam,GPE
+Korah,PERSON
+Canaan,GPE
+36 6,DATE
+Esau,PERSON
+Canaan,GPE
+Jacob,PERSON
+36 7,DATE
+36 8,DATE
+Seir  Esau,PERSON
+36 9,DATE
+36 10,CARDINAL
+Esau,PERSON
+Adah,PERSON
+Esau  Reuel,PERSON
+Bashemath,ORG
+36 11,DATE
+Eliphaz,PERSON
+Teman,PERSON
+Omar  Zepho,PERSON
+Gatam,PERSON
+Kenaz,ORG
+36 12,DATE
+Timna,PERSON
+Eliphaz Esau s,PERSON
+Eliphaz Amalek,PERSON
+Adah Esau s,PERSON
+36 13,DATE
+Reuel  Nahath  ,ORG
+Zerah  Shammah,PERSON
+Mizzah,PERSON
+Bashemath Esau s,ORG
+36 14,DATE
+Aholibamah,NORP
+Anah,GPE
+Zibeon  Esau s,PERSON
+Esau Jeush,PERSON
+Jaalam,GPE
+Korah,PERSON
+36 15,DATE
+Eliphaz,PERSON
+Teman,PERSON
+Omar  duke,PERSON
+Zepho  duke,PERSON
+Kenaz,PERSON
+36,CARDINAL
+16,CARDINAL
+Korah  ,PERSON
+Gatam,PERSON
+Amalek,PERSON
+Eliphaz,PERSON
+Edom,GPE
+Adah,PERSON
+36 17,DATE
+Reuel Esau s,PERSON
+Nahath  duke,PERSON
+Zerah,PERSON
+Shammah,PERSON
+Mizzah,PERSON
+Reuel,PERSON
+Edom,GPE
+Bashemath Esau s,ORG
+36 18,DATE
+Aholibamah,NORP
+Jeush,PERSON
+Jaalam,PERSON
+Korah,PERSON
+Aholibamah,NORP
+Anah,GPE
+36 19,DATE
+Edom,GPE
+36 20,DATE
+Horite,NORP
+Lotan,GPE
+Shobal,ORG
+Zibeon  ,PERSON
+Anah,GPE
+36 21,DATE
+Dishon,PERSON
+Ezer,ORG
+Dishan,GPE
+Horites,ORG
+Edom,GPE
+36 22,DATE
+Lotan,GPE
+Hori,PERSON
+Hemam,GPE
+Lotan,GPE
+Timna,PERSON
+36 23,DATE
+Shobal,ORG
+Alvan,ORG
+Manahath,ORG
+Ebal  Shepho,PERSON
+Onam,WORK_OF_ART
+36 24,DATE
+Zibeon,NORP
+Anah,GPE
+Anah,GPE
+Zibeon,PERSON
+36 25,DATE
+Anah,GPE
+Dishon,PERSON
+Aholibamah,NORP
+Anah,GPE
+36 26,DATE
+Dishon,PERSON
+Hemdan,NORP
+Eshban,PERSON
+Ithran,GPE
+Cheran,NORP
+36 27,TIME
+Ezer,GPE
+Zaavan  ,PERSON
+Akan,ORG
+36 28,CARDINAL
+Dishan,GPE
+Aran,ORG
+36 29,CARDINAL
+Horites,ORG
+Lotan  duke  Shobal,PERSON
+Zibeon  duke,PERSON
+Anah,GPE
+36 30,CARDINAL
+Dishon,PERSON
+Ezer  duke,PERSON
+Dishan,GPE
+Hori,ORG
+36 31,DATE
+Edom,GPE
+Israel,GPE
+36 32,DATE
+Beor,PERSON
+Edom,GPE
+Dinhabah,ORG
+36 33,DATE
+Bela,PERSON
+Jobab,PERSON
+Zerah,PERSON
+Bozrah,GPE
+36 34,DATE
+Jobab,ORG
+Husham,ORG
+Temani,PERSON
+36 35,DATE
+Husham,ORG
+Hadad,PERSON
+Bedad,PERSON
+Midian,NORP
+Moab,GPE
+Avith,PERSON
+36 36,DATE
+Hadad,PERSON
+Samlah of Masrekah,ORG
+36 37,DATE
+Samlah,ORG
+Saul of Rehoboth,PERSON
+36 38,DATE
+Saul,PERSON
+Baalhanan,GPE
+Achbor,PERSON
+36 39,DATE
+Baalhanan the son of Achbor,PERSON
+Hadar,ORG
+Pau  ,PERSON
+Mehetabel,PERSON
+Matred,NORP
+Mezahab,ORG
+36 40,DATE
+Timnah,GPE
+Alvah,PERSON
+Jetheth  ,PERSON
+36 41,CARDINAL
+Aholibamah  duke,PERSON
+Elah,PERSON
+Pinon,PERSON
+36,CARDINAL
+Kenaz,PERSON
+Teman,PERSON
+Mibzar  ,PERSON
+36,CARDINAL
+43,CARDINAL
+Duke  Magdiel,ORG
+Iram  ,PERSON
+Edom,GPE
+37 1,DATE
+Jacob dwelt,PERSON
+Canaan,GPE
+37 2,CARDINAL
+Jacob  Joseph,PERSON
+seventeen years  old,DATE
+Bilhah,PERSON
+Zilpah,PERSON
+Joseph,PERSON
+37 3,DATE
+Israel,GPE
+Joseph,PERSON
+37 4,DATE
+37 5,DATE
+Joseph,PERSON
+37 6,DATE
+37 7,DATE
+37 8,DATE
+37 9,DATE
+eleven,CARDINAL
+37 10,DATE
+37 11,DATE
+37 12,DATE
+Shechem,GPE
+37 13,DATE
+Israel,GPE
+Joseph  Do,PERSON
+Shechem,GPE
+37 14,DATE
+Hebron,GPE
+Shechem,GPE
+37 15,DATE
+37,CARDINAL
+37 17,DATE
+Dothan,GPE
+Joseph,PERSON
+Dothan,GPE
+37 18,DATE
+37 19,DATE
+one,CARDINAL
+37 20,TIME
+37 21,DATE
+Reuben,PERSON
+37 22,DATE
+Reuben,PERSON
+37 23,DATE
+Joseph,PERSON
+stript Joseph,PERSON
+37 24,DATE
+37 25,DATE
+Ishmeelites,ORG
+Gilead,ORG
+Egypt,GPE
+37 26,DATE
+Judah,PERSON
+37 27,DATE
+Ishmeelites,ORG
+37 28,DATE
+Midianites,NORP
+Joseph,PERSON
+Joseph,PERSON
+Ishmeelites,ORG
+twenty,CARDINAL
+Joseph,PERSON
+Egypt,GPE
+37 29,DATE
+Reuben,PERSON
+Joseph,PERSON
+37 30,DATE
+37 31,DATE
+Joseph s,PERSON
+37 32,DATE
+37 33,DATE
+Joseph,PERSON
+37 34,DATE
+Jacob,PERSON
+37 35,DATE
+37 36,DATE
+Midianites,ORG
+Egypt,GPE
+Pharaoh,PERSON
+38 1,DATE
+Judah,PERSON
+Adullamite,ORG
+Hirah,PERSON
+38 2,DATE
+Judah,PERSON
+Canaanite,NORP
+Shuah,ORG
+38 3,DATE
+38 4,DATE
+Onan,ORG
+38 5,DATE
+Shelah,ORG
+Chezib,PERSON
+38 6,DATE
+Judah,PERSON
+Tamar,PERSON
+38 7,DATE
+LORD,GPE
+38 8,DATE
+Judah,PERSON
+Onan  Go,ORG
+38 9,DATE
+Onan,GPE
+38 10,DATE
+38 11,DATE
+Judah,GPE
+Tamar,GPE
+s house,PERSON
+Shelah,ORG
+Lest,PERSON
+Tamar,PERSON
+38 12,DATE
+Shuah Judah s,PERSON
+Judah,GPE
+Hirah the Adullamite,PERSON
+38 13,DATE
+Tamar,PERSON
+38 14,DATE
+Shelah,ORG
+38 15,DATE
+Judah,PERSON
+38 16,DATE
+thou mayest,PERSON
+38 17,DATE
+38,CARDINAL
+38 19,DATE
+38 20,DATE
+Judah,PERSON
+Adullamite,PERSON
+38 21,DATE
+38 22,DATE
+Judah,GPE
+38 23,DATE
+Judah,PERSON
+38 24,DATE
+about three months,DATE
+Judah,PERSON
+Tamar,PERSON
+Judah,PERSON
+38 25,DATE
+38 26,DATE
+Judah,PERSON
+Shelah,ORG
+38 27,DATE
+38 28,DATE
+first,ORDINAL
+38 29,DATE
+Pharez,PERSON
+38 30,DATE
+Zarah,PERSON
+39 1,DATE
+Joseph,PERSON
+Egypt,GPE
+Potiphar,PERSON
+Pharaoh,PERSON
+Egyptian,NORP
+Ishmeelites,ORG
+39 2,DATE
+Joseph  and,PERSON
+Egyptian,NORP
+39 3,DATE
+39 4,DATE
+Joseph,PERSON
+39 5,DATE
+Egyptian,NORP
+Joseph,PERSON
+39 6,DATE
+Joseph,PERSON
+Joseph,PERSON
+39 7,DATE
+Joseph  ,PERSON
+39 8,DATE
+39 9,DATE
+39 10,DATE
+Joseph,PERSON
+39 11,EVENT
+Joseph,PERSON
+39 12,DATE
+39 13,DATE
+39 14,DATE
+Hebrew,LANGUAGE
+39 15,DATE
+39 16,DATE
+39 17,DATE
+Hebrew,LANGUAGE
+39 18,DATE
+39 19,DATE
+39 20,DATE
+Joseph,PERSON
+39 21,DATE
+Joseph  and,PERSON
+39 22,DATE
+Joseph,PERSON
+39 23,CARDINAL
+40 1,DATE
+Egypt,GPE
+Egypt,GPE
+40 2,DATE
+Pharaoh,PERSON
+two,CARDINAL
+40 3,DATE
+Joseph,PERSON
+40 4,DATE
+Joseph,PERSON
+40 5,DATE
+one  night,TIME
+Egypt,GPE
+40 6,DATE
+Joseph,PERSON
+morning,TIME
+40 7,DATE
+Pharaoh,PERSON
+Joseph,PERSON
+40 9,DATE
+Joseph  and,PERSON
+40 10,DATE
+three,CARDINAL
+40 11,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+40 12,DATE
+Joseph,PERSON
+three,CARDINAL
+three days  ,DATE
+three days,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+40 14,DATE
+shew  kindness,PERSON
+Pharaoh,PERSON
+40 15,CARDINAL
+Hebrews,ORG
+40 16,DATE
+Joseph  I,PERSON
+three,CARDINAL
+40 17,DATE
+bakemeats,PERSON
+Pharaoh,PERSON
+40 18,DATE
+Joseph,PERSON
+three,CARDINAL
+three days  ,DATE
+three days,DATE
+Pharaoh,PERSON
+40 20,DATE
+third,ORDINAL
+Pharaoh,PERSON
+40 21,DATE
+Pharaoh,PERSON
+40 22,DATE
+baker  ,PERSON
+Joseph,PERSON
+40 23,DATE
+Joseph  ,PERSON
+41 1,DATE
+two full years,DATE
+Pharaoh,PERSON
+41 2,CARDINAL
+seven,CARDINAL
+41 3,DATE
+seven,CARDINAL
+41 4,DATE
+leanfleshed kine,PERSON
+seven,CARDINAL
+Pharaoh,PERSON
+41 5,DATE
+second,ORDINAL
+seven,CARDINAL
+one,CARDINAL
+41 6,DATE
+seven,CARDINAL
+41 7,DATE
+seven,CARDINAL
+seven,CARDINAL
+Pharaoh,PERSON
+41 8,DATE
+the morning,TIME
+Egypt,GPE
+Pharaoh,PERSON
+Pharaoh,PERSON
+41 9,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+41 11,CARDINAL
+one night,TIME
+41 12,DATE
+Hebrew,LANGUAGE
+41 13,DATE
+41 14,DATE
+Pharaoh,PERSON
+Joseph  ,PERSON
+Pharaoh,PERSON
+41 15,DATE
+Pharaoh,PERSON
+Joseph  I,PERSON
+41 16,DATE
+Joseph,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+41 17,DATE
+Pharaoh,PERSON
+Joseph  In,PERSON
+41 18,CARDINAL
+seven,CARDINAL
+fed,ORG
+41 19,DATE
+seven,CARDINAL
+Egypt,GPE
+41 20,DATE
+first,ORDINAL
+seven,CARDINAL
+41 21,DATE
+41 22,DATE
+seven,CARDINAL
+one,CARDINAL
+41 23,CARDINAL
+seven,CARDINAL
+41 24,DATE
+seven,CARDINAL
+41 25,DATE
+Joseph,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+one,CARDINAL
+Pharaoh,PERSON
+41 26,TIME
+seven,CARDINAL
+seven years,DATE
+seven,CARDINAL
+seven years,DATE
+one,CARDINAL
+41 27,DATE
+seven,CARDINAL
+seven years,DATE
+seven,CARDINAL
+seven years,DATE
+41 28,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+41 29,DATE
+seven years,DATE
+Egypt,GPE
+41 30,DATE
+seven years,DATE
+Egypt,GPE
+41 31,DATE
+41 32,DATE
+Pharaoh,PERSON
+41 33,DATE
+Pharaoh,PERSON
+Egypt,GPE
+41,CARDINAL
+Pharaoh,PERSON
+fifth,ORDINAL
+Egypt,GPE
+seven,CARDINAL
+years,DATE
+41 35,DATE
+those good years,DATE
+Pharaoh,PERSON
+41 36,DATE
+seven  years,DATE
+Egypt,GPE
+41 37,DATE
+Pharaoh,PERSON
+41 38,DATE
+Pharaoh,PERSON
+41 39,DATE
+Pharaoh,PERSON
+Joseph  Forasmuch,PERSON
+41,CARDINAL
+41 41,DATE
+Pharaoh,PERSON
+Joseph  See,PERSON
+Egypt,GPE
+41 42,DATE
+Pharaoh,PERSON
+Joseph,PERSON
+41 43,DATE
+second,ORDINAL
+Egypt,GPE
+41 44,DATE
+Pharaoh,PERSON
+Joseph  I,PERSON
+Pharaoh,PERSON
+Egypt,GPE
+41 45,DATE
+Pharaoh,PERSON
+Joseph,PERSON
+Zaphnathpaaneah,PRODUCT
+Asenath,PERSON
+Potipherah,NORP
+Joseph,PERSON
+Egypt,GPE
+41 46,DATE
+Joseph,PERSON
+thirty years old,DATE
+Pharaoh,PERSON
+Egypt,GPE
+Joseph,PERSON
+Pharaoh,PERSON
+Egypt,GPE
+41 47,DATE
+seven,CARDINAL
+41 48,DATE
+seven years,DATE
+Egypt,GPE
+41 49,DATE
+Joseph,PERSON
+41 50,DATE
+Joseph,PERSON
+two,CARDINAL
+the years,DATE
+Asenath,PERSON
+Potipherah,NORP
+41 51,DATE
+Joseph,PERSON
+Manasseh,ORG
+41 52,DATE
+second,ORDINAL
+Ephraim,PERSON
+41 53,DATE
+the seven years,DATE
+Egypt,GPE
+41 54,DATE
+the seven years,DATE
+Joseph  ,PERSON
+Egypt,GPE
+41 55,DATE
+Egypt,GPE
+Pharaoh,PERSON
+Pharaoh,PERSON
+Egyptians,NORP
+Joseph,PERSON
+41 56,DATE
+Joseph  ,PERSON
+Egyptians,NORP
+Egypt,GPE
+41 57,DATE
+Egypt,GPE
+Joseph,PERSON
+42 1 Now,DATE
+Jacob,PERSON
+Egypt,GPE
+Jacob,PERSON
+one,CARDINAL
+42 2,DATE
+Egypt,GPE
+42 3,DATE
+Joseph,PERSON
+ten,CARDINAL
+Egypt,GPE
+42 4,DATE
+Benjamin  Joseph s,PERSON
+Jacob,PERSON
+Lest,PERSON
+42 5,DATE
+Israel,GPE
+Canaan,GPE
+42 6,DATE
+Joseph,PERSON
+Joseph,PERSON
+earth,LOC
+42 7,DATE
+Joseph,PERSON
+Canaan,GPE
+42 8,DATE
+Joseph,PERSON
+42 9,DATE
+Joseph,PERSON
+42 10,DATE
+Nay,PERSON
+42 11,CARDINAL
+one,CARDINAL
+42 12,DATE
+Nay,PERSON
+42 13,DATE
+twelve,CARDINAL
+one,CARDINAL
+Canaan,GPE
+this day,DATE
+42 14,DATE
+Joseph,PERSON
+42 15,CARDINAL
+Pharaoh,PERSON
+42 16,DATE
+one,CARDINAL
+Pharaoh,PERSON
+42 17,DATE
+three days,DATE
+42 18,DATE
+Joseph,PERSON
+the third day  ,DATE
+42 19,CARDINAL
+one,CARDINAL
+42 20,CARDINAL
+42 21,DATE
+42 22,DATE
+Reuben,PERSON
+42 23,DATE
+Joseph,PERSON
+42 24,DATE
+Simeon,PERSON
+42 25,DATE
+Joseph,PERSON
+42 26,DATE
+42 27,DATE
+42 28,DATE
+42 29,CARDINAL
+Jacob,PERSON
+Canaan,GPE
+42 30,CARDINAL
+42 31,DATE
+42 32,CARDINAL
+twelve,CARDINAL
+this day,DATE
+Canaan,GPE
+42 33,DATE
+42,CARDINAL
+42 35,DATE
+42 36,DATE
+Jacob,PERSON
+Joseph,PERSON
+Simeon,PERSON
+Benjamin,PERSON
+42 37,DATE
+Reuben spake,PERSON
+two,CARDINAL
+42 38,DATE
+43 1,DATE
+43 2,DATE
+Egypt,GPE
+43 3,DATE
+43 4,DATE
+43 5,CARDINAL
+us  Ye,PERSON
+43 6,DATE
+Israel,GPE
+43 7,DATE
+43 8,DATE
+Judah,PERSON
+Israel,GPE
+43 9,DATE
+43 10,DATE
+second,ORDINAL
+43 11,DATE
+Israel,GPE
+43 12,DATE
+43,CARDINAL
+43 14,DATE
+Benjamin,PERSON
+43 15,DATE
+Benjamin  ,PERSON
+Egypt,GPE
+Joseph,PERSON
+Joseph,PERSON
+Benjamin,PERSON
+noon,TIME
+43 17,EVENT
+Joseph bade  ,PERSON
+Joseph,PERSON
+43 18,DATE
+Joseph s  house,PERSON
+first,ORDINAL
+43 19,DATE
+Joseph,PERSON
+43 20,DATE
+first,ORDINAL
+43 21,DATE
+43 22,DATE
+43 23,DATE
+Simeon,PERSON
+43 24,DATE
+Joseph,PERSON
+43 25,DATE
+Joseph,PERSON
+noon,TIME
+43 26,DATE
+Joseph,PERSON
+43 27,DATE
+43 28,DATE
+43 29,DATE
+Benjamin  ,PERSON
+43 30,DATE
+Joseph,PERSON
+43 31,DATE
+43 32,DATE
+Egyptians,NORP
+Egyptians,NORP
+Hebrews,ORG
+Egyptians,NORP
+43 33,DATE
+43 34,DATE
+Benjamin,ORG
+five,CARDINAL
+44 1,DATE
+44 2,DATE
+Joseph,PERSON
+44 3,DATE
+the morning,TIME
+44 4,DATE
+Joseph,PERSON
+44 5,DATE
+divineth,ORG
+44 6,DATE
+44 7,DATE
+44,CARDINAL
+Canaan,GPE
+44 9,DATE
+44 10,DATE
+44 11,DATE
+44 12,DATE
+Benjamin,PERSON
+44 13,DATE
+44 14,DATE
+Judah,PERSON
+Joseph,PERSON
+44 15,DATE
+Joseph,PERSON
+44 16,DATE
+Judah,PERSON
+44 17,DATE
+44 18,DATE
+Pharaoh,PERSON
+44 19,TIME
+44 20,DATE
+one,CARDINAL
+44 21,DATE
+44 22,DATE
+44 23,DATE
+44 24,DATE
+44 25,DATE
+44 26,DATE
+44 27,DATE
+us  Ye,PERSON
+two,CARDINAL
+44 28,DATE
+44 29,DATE
+44 30,DATE
+44 31,DATE
+44 32,DATE
+44,CARDINAL
+44 34,DATE
+45 1,DATE
+Joseph,PERSON
+Joseph,PERSON
+45 2,DATE
+Egyptians,NORP
+Pharaoh,PERSON
+45 3,DATE
+Joseph,PERSON
+Joseph  ,PERSON
+45 4,DATE
+Joseph,PERSON
+Joseph,PERSON
+Egypt,GPE
+45 5 Now,DATE
+45 6,DATE
+these two years,DATE
+five years,DATE
+45 7,DATE
+45 8,DATE
+Pharaoh,PERSON
+Egypt,GPE
+45 9,DATE
+Joseph  God,PERSON
+Egypt,GPE
+45 10,DATE
+Goshen,GPE
+45 11,DATE
+five years,DATE
+45 12,DATE
+Benjamin,PERSON
+45 13,DATE
+Egypt,GPE
+45 14,DATE
+Benjamin,PERSON
+45 15,DATE
+45 16,DATE
+Pharaoh,PERSON
+Joseph,PERSON
+Pharaoh,PERSON
+45 17,DATE
+Pharaoh,PERSON
+Joseph  Say,PERSON
+Canaan,GPE
+45 18,CARDINAL
+Egypt,GPE
+45 19,DATE
+Egypt,GPE
+45 20,DATE
+Egypt,GPE
+45 21,DATE
+Israel,GPE
+Joseph,PERSON
+Pharaoh,PERSON
+45 22,CARDINAL
+Benjamin,PERSON
+three hundred,CARDINAL
+five,CARDINAL
+45 23,DATE
+ten,CARDINAL
+Egypt,GPE
+ten,CARDINAL
+45 24,DATE
+45 25,DATE
+Egypt,GPE
+Canaan,GPE
+Jacob,PERSON
+45 26,DATE
+Joseph,PERSON
+Egypt,GPE
+Jacob s,PERSON
+45 27,DATE
+Joseph,PERSON
+Joseph,PERSON
+Jacob,PERSON
+45 28,DATE
+Israel,GPE
+Joseph,PERSON
+46 1,DATE
+Israel,GPE
+Beersheba,GPE
+Isaac,PERSON
+46 2,DATE
+Israel,GPE
+night,TIME
+Jacob  Jacob,PERSON
+46 3,DATE
+Egypt,GPE
+46 4,DATE
+Egypt,GPE
+Joseph,PERSON
+46 5,DATE
+Jacob,PERSON
+Beersheba,GPE
+Israel,GPE
+Jacob,PERSON
+Pharaoh,PERSON
+46 6,DATE
+Canaan,GPE
+Egypt,GPE
+46 7,DATE
+Egypt,GPE
+46 8,DATE
+Israel,GPE
+Egypt,GPE
+Jacob,PERSON
+Reuben  Jacob s,PERSON
+46 9,DATE
+Reuben  Hanoch,PERSON
+Phallu,ORG
+Hezron,ORG
+Carmi,PERSON
+46 10,DATE
+Simeon  Jemuel,PERSON
+Jamin  ,PERSON
+Jachin,PERSON
+Zohar,PERSON
+Shaul,PERSON
+Canaanitish,PERSON
+46 11,DATE
+Levi  Gershon  Kohath,ORG
+Merari,ORG
+46 12,DATE
+Judah,PERSON
+Onan,ORG
+Shelah,ORG
+Zarah,PERSON
+Onan,PERSON
+Canaan,GPE
+Hezron,ORG
+Hamul,ORG
+46 13,DATE
+Issachar,NORP
+Tola,PERSON
+Phuvah,PERSON
+Shimron,ORG
+46 14,DATE
+Zebulun  Sered,PERSON
+Elon,ORG
+46 15,CARDINAL
+Leah,PERSON
+Jacob,PERSON
+Padanaram,EVENT
+thirty and,CARDINAL
+three,CARDINAL
+46 16,DATE
+Gad  Ziphion,PERSON
+Haggi  Shuni  ,PERSON
+Ezbon  Eri,ORG
+Arodi,ORG
+Areli,ORG
+46 17,DATE
+Asher,PERSON
+Ishuah,ORG
+Beriah,ORG
+Serah,PERSON
+Beriah  Heber  ,ORG
+46 18,DATE
+Zilpah,PERSON
+Laban,PERSON
+Leah,PERSON
+Jacob  even,PERSON
+sixteen,CARDINAL
+46 19,DATE
+Rachel Jacob s,PERSON
+Joseph  ,PERSON
+Benjamin,ORG
+46 20,DATE
+Joseph,PERSON
+Egypt,GPE
+Manasseh,ORG
+Ephraim,PERSON
+Asenath,PERSON
+Potipherah,NORP
+46 21,DATE
+Benjamin,PERSON
+Belah,GPE
+Becher,ORG
+Ashbel,ORG
+Gera,PERSON
+Naaman,PERSON
+Rosh  Muppim,PERSON
+Huppim,ORG
+Ard,ORG
+46 22,DATE
+Rachel,PERSON
+Jacob  all,PERSON
+fourteen,CARDINAL
+46 23,DATE
+Dan  Hushim,PERSON
+46 24,DATE
+Naphtali,PERSON
+Jezer,ORG
+46 25,DATE
+Bilhah,PERSON
+Laban,PERSON
+Rachel,PERSON
+Jacob,PERSON
+seven,CARDINAL
+46 26,DATE
+Jacob,PERSON
+Egypt,GPE
+Jacob s,PERSON
+six,CARDINAL
+Joseph,PERSON
+Egypt,GPE
+two,CARDINAL
+Jacob,PERSON
+Egypt,GPE
+ten,CARDINAL
+46 28,DATE
+Judah,PERSON
+Joseph  to,PERSON
+Goshen,GPE
+Goshen,GPE
+46 29,DATE
+Joseph,PERSON
+Israel,GPE
+Goshen,GPE
+46 30,DATE
+Israel,GPE
+Joseph  Now,PERSON
+46 31,DATE
+Joseph,PERSON
+shew Pharaoh  ,PERSON
+Canaan,GPE
+46 32,DATE
+46 33,DATE
+Pharaoh,PERSON
+46 34,DATE
+Goshen,GPE
+Egyptians,NORP
+47 1,DATE
+Joseph,PERSON
+Pharaoh,PERSON
+Canaan,GPE
+Goshen,GPE
+47 2,DATE
+five,CARDINAL
+Pharaoh,PERSON
+47 3,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+47 4,DATE
+Pharaoh,PERSON
+Canaan,GPE
+Goshen,GPE
+47 5,DATE
+Pharaoh,PERSON
+Joseph  saying,PERSON
+47 6,CARDINAL
+Egypt,GPE
+Goshen,GPE
+47 7,DATE
+Joseph,PERSON
+Jacob,PERSON
+Pharaoh,PERSON
+Jacob blessed Pharaoh,PERSON
+47 8,DATE
+Pharaoh,PERSON
+Jacob  How old,PERSON
+47 9,DATE
+Jacob  ,PERSON
+Pharaoh,PERSON
+The days of the years,DATE
+an  hundred and,CARDINAL
+the days of the years,DATE
+the days of the years,DATE
+the days,DATE
+47 10,DATE
+Jacob,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+47 11,DATE
+Joseph,PERSON
+Egypt,GPE
+Rameses,PERSON
+Pharaoh,PERSON
+47 12,DATE
+Joseph,PERSON
+47 13,DATE
+Egypt,GPE
+Canaan,GPE
+47 14,DATE
+Joseph,PERSON
+Egypt,GPE
+Canaan,GPE
+Joseph,PERSON
+Pharaoh,PERSON
+47 15,DATE
+Egypt,GPE
+Canaan,GPE
+Egyptians,NORP
+Joseph  and,PERSON
+47 16,DATE
+Joseph,PERSON
+47 17,DATE
+Joseph  and,PERSON
+Joseph,PERSON
+that year,DATE
+47 18,DATE
+the second year,DATE
+47 19,DATE
+Pharaoh,PERSON
+47 20,DATE
+Joseph,PERSON
+Egypt,GPE
+Pharaoh,PERSON
+Egyptians,NORP
+Pharaoh,PERSON
+47 21,DATE
+one,CARDINAL
+Egypt,GPE
+47 22,TIME
+Pharaoh,PERSON
+Pharaoh,PERSON
+47 23,DATE
+Joseph,PERSON
+this  day,DATE
+Pharaoh  lo,PERSON
+47 24,DATE
+fifth,ORDINAL
+Pharaoh,PERSON
+four,CARDINAL
+47 25,DATE
+Pharaoh,PERSON
+47 26,DATE
+Joseph,PERSON
+Egypt,GPE
+this day,DATE
+Pharaoh,PERSON
+fifth,ORDINAL
+Pharaoh,PERSON
+47 27,DATE
+Israel,GPE
+Egypt,GPE
+Goshen,GPE
+47 28,DATE
+Jacob,PERSON
+Egypt,GPE
+seventeen years  ,DATE
+Jacob,PERSON
+47 29,DATE
+Israel,GPE
+Joseph  ,PERSON
+Egypt,GPE
+47 30,DATE
+Egypt,GPE
+47 31,DATE
+Israel,GPE
+48 1,DATE
+Joseph   Behold,PERSON
+two,CARDINAL
+Manasseh,ORG
+Ephraim,PERSON
+48 2,DATE
+Jacob  and,PERSON
+Joseph,PERSON
+Israel,GPE
+48 3,DATE
+Jacob,PERSON
+Joseph  God,PERSON
+Canaan,GPE
+48 4,DATE
+48 5,DATE
+two,CARDINAL
+Ephraim,PERSON
+Manasseh,ORG
+Egypt,GPE
+Egypt,GPE
+Reuben,PERSON
+Simeon,PERSON
+48 6,DATE
+thou begettest,PERSON
+48 7,DATE
+Padan  Rachel,PERSON
+Canaan,GPE
+Ephrath,NORP
+Ephrath,GPE
+Bethlehem,ORG
+48 8,DATE
+Israel,GPE
+Joseph s,PERSON
+48,CARDINAL
+Joseph,PERSON
+48 10,DATE
+Israel,GPE
+48 11,DATE
+Israel,GPE
+Joseph  I,PERSON
+lo  God,PERSON
+48 12,DATE
+Joseph,PERSON
+earth,LOC
+48 13,DATE
+Joseph,PERSON
+Ephraim,PERSON
+Israel,GPE
+Manasseh,ORG
+Israel,GPE
+48 14,DATE
+Israel,GPE
+Ephraim,PERSON
+Manasseh,ORG
+Manasseh,ORG
+48 15,DATE
+Joseph  and,PERSON
+Abraham,PERSON
+Isaac,PERSON
+this day,DATE
+Angel,PERSON
+Abraham,PERSON
+Isaac,PERSON
+earth,LOC
+48 17,DATE
+Joseph,PERSON
+Ephraim,PERSON
+Ephraim,PERSON
+Manasseh,ORG
+48 18,DATE
+Joseph,PERSON
+48 19,DATE
+48 20,DATE
+Israel,GPE
+Ephraim,PERSON
+Manasseh,ORG
+Ephraim,PERSON
+Manasseh,ORG
+48 21,DATE
+Israel,GPE
+Joseph  Behold,PERSON
+48 22,DATE
+one,CARDINAL
+49 1,DATE
+Jacob,PERSON
+the last  days,DATE
+49,CARDINAL
+Jacob,PERSON
+Israel,GPE
+49,CARDINAL
+3,CARDINAL
+Reuben  thou,PERSON
+49,CARDINAL
+thou wentest,PERSON
+Simeon,PERSON
+Levi,PERSON
+49,CARDINAL
+49 7,DATE
+Jacob,PERSON
+Israel,GPE
+49,CARDINAL
+8,CARDINAL
+49 9 Judah,DATE
+49 10,CARDINAL
+Judah,GPE
+Shiloh,GPE
+49 11,DATE
+49 12,DATE
+49 13,DATE
+Zidon,EVENT
+49,CARDINAL
+Issachar,PERSON
+between two,CARDINAL
+49 15,DATE
+49,CARDINAL
+Dan,PERSON
+one,CARDINAL
+Israel,GPE
+49,CARDINAL
+Dan,PERSON
+49 18,DATE
+49,CARDINAL
+19,CARDINAL
+Gad,PERSON
+49 20,DATE
+Asher,PERSON
+49,CARDINAL
+Naphtali,PERSON
+49,CARDINAL
+Joseph,PERSON
+49 23,CARDINAL
+49 24,DATE
+Jacob,PERSON
+Israel,GPE
+49 25,DATE
+49 26,CARDINAL
+Joseph,PERSON
+49 27,DATE
+night,TIME
+49 28,DATE
+twelve,CARDINAL
+Israel,GPE
+49 29,DATE
+Ephron,ORG
+Hittite,NORP
+49 30,DATE
+Machpelah,ORG
+Mamre,ORG
+Canaan,GPE
+Abraham,PERSON
+Ephron,ORG
+Hittite,NORP
+49 31,DATE
+Abraham,PERSON
+Sarah,PERSON
+Isaac,PERSON
+Rebekah,PERSON
+Leah,PERSON
+49,CARDINAL
+32,CARDINAL
+Heth,PERSON
+49 33,DATE
+Jacob,PERSON
+50 1,DATE
+Joseph,PERSON
+50 2,DATE
+Joseph,PERSON
+Israel,GPE
+50 3 And forty days,DATE
+the  days,DATE
+Egyptians,NORP
+threescore and,DATE
+ten days,DATE
+50 4,DATE
+the days,DATE
+Joseph spake,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+50 5,CARDINAL
+Lo  I,PERSON
+Canaan,GPE
+50 6,DATE
+Pharaoh,PERSON
+50 7,DATE
+Joseph,PERSON
+Pharaoh,PERSON
+Egypt,GPE
+50 8,CARDINAL
+Joseph  and,PERSON
+Goshen,GPE
+50 9,DATE
+50 10,CARDINAL
+Atad,GPE
+Jordan,GPE
+seven days,DATE
+50 11,DATE
+Canaanites,NORP
+Atad,GPE
+Egyptians,NORP
+Jordan,GPE
+50 12,DATE
+50,CARDINAL
+Canaan,GPE
+Machpelah,GPE
+Abraham,PERSON
+Ephron,ORG
+Hittite,NORP
+Mamre,ORG
+50 14,DATE
+Joseph,PERSON
+Egypt,GPE
+50 15,DATE
+Joseph,PERSON
+Joseph,PERSON
+50 16,DATE
+Joseph  saying,PERSON
+50 17,DATE
+Joseph,PERSON
+Joseph,PERSON
+50 18,DATE
+50 19,DATE
+Joseph,PERSON
+50 20,CARDINAL
+this day,DATE
+50 21,DATE
+50 22,DATE
+Joseph dwelt,PERSON
+Egypt,GPE
+Joseph,PERSON
+an hundred and ten years,CARDINAL
+50 23,DATE
+Joseph,PERSON
+Ephraim,PERSON
+third,ORDINAL
+Manasseh,ORG
+Joseph,PERSON
+50 24,DATE
+Joseph,PERSON
+Abraham  ,PERSON
+Isaac  and,PERSON
+Jacob,PERSON
+50 25,DATE
+Joseph,PERSON
+Israel,GPE
+50 26,DATE
+Joseph,PERSON
+an hundred and ten years old,CARDINAL
+Egypt,GPE
+1 1,CARDINAL
+Israel,GPE
+Egypt,GPE
+Jacob,PERSON
+2,CARDINAL
+Reuben  Simeon  Levi,PERSON
+Judah,GPE
+1 3,CARDINAL
+Issachar  Zebulun,PERSON
+Benjamin,ORG
+Dan  ,PERSON
+Naphtali  Gad,PERSON
+Asher,ORG
+1 5,CARDINAL
+Jacob,PERSON
+seventy,CARDINAL
+Joseph,PERSON
+Egypt,GPE
+1 6,DATE
+Joseph,PERSON
+1 7,CARDINAL
+Israel,GPE
+Egypt,GPE
+Joseph,PERSON
+Israel,GPE
+1 10,CARDINAL
+1 11,CARDINAL
+Pharaoh,PERSON
+Pithom,GPE
+Raamses,ORG
+1 12,CARDINAL
+Israel,GPE
+1 13,CARDINAL
+Egyptians,NORP
+Israel,GPE
+1 14,CARDINAL
+1 15,CARDINAL
+Egypt,GPE
+Hebrew,LANGUAGE
+Shiphrah,ORG
+Puah  ,PERSON
+1 16,CARDINAL
+Hebrew,LANGUAGE
+1 17,CARDINAL
+Egypt,GPE
+1 18,DATE
+Egypt,GPE
+1 19,CARDINAL
+Pharaoh,PERSON
+Hebrew,LANGUAGE
+Egyptian,NORP
+1 20,CARDINAL
+1 21,CARDINAL
+1 22,CARDINAL
+Pharaoh,PERSON
+2 1,DATE
+Levi,PERSON
+Levi,PERSON
+2 2,DATE
+three months,DATE
+2 3,DATE
+2 4,DATE
+2 5,DATE
+Pharaoh,PERSON
+2 6,DATE
+one,CARDINAL
+2 7,DATE
+Pharaoh,PERSON
+Hebrew,LANGUAGE
+2 8,DATE
+Pharaoh,PERSON
+2 9,DATE
+Pharaoh,PERSON
+2 10,DATE
+Pharaoh,PERSON
+Moses,PERSON
+2 11,DATE
+those days,DATE
+Moses,PERSON
+Egyptian,NORP
+Hebrew,LANGUAGE
+2 12,DATE
+Egyptian,NORP
+2 13,DATE
+second,ORDINAL
+two,CARDINAL
+2 14,DATE
+us  intendest thou,PERSON
+Egyptian,NORP
+Moses,PERSON
+2 15,DATE
+Pharaoh,PERSON
+slay Moses,PERSON
+Moses,PERSON
+Pharaoh,PERSON
+Midian,NORP
+2 16,DATE
+Midian,NORP
+seven,CARDINAL
+2 17,DATE
+Moses,PERSON
+2 18,DATE
+Reuel,PERSON
+Egyptian,NORP
+2 20,DATE
+2 21,DATE
+Moses,PERSON
+Moses  Zipporah,PERSON
+2 22,DATE
+Gershom,PERSON
+2 23,CARDINAL
+Egypt,GPE
+Israel,GPE
+2 24,DATE
+Abraham  ,PERSON
+Isaac  and,PERSON
+Jacob,PERSON
+2 25,DATE
+Israel,GPE
+3 1,DATE
+Moses,PERSON
+Jethro,PERSON
+Midian,NORP
+Horeb,ORG
+3 2,DATE
+bush,PERSON
+bush,PERSON
+bush,PERSON
+3 3,DATE
+Moses,PERSON
+bush,PERSON
+3 4,DATE
+bush,PERSON
+Moses  Moses,PERSON
+3 5,DATE
+3 6,DATE
+Abraham,PERSON
+Isaac,PERSON
+Jacob  ,PERSON
+Moses,PERSON
+3 7,DATE
+Egypt,GPE
+3 8,DATE
+Egyptians,NORP
+Canaanites,NORP
+Hittites,NORP
+Amorites,NORP
+Perizzites,NORP
+Jebusites,ORG
+3 9,DATE
+Israel,GPE
+Egyptians,NORP
+3 10,TIME
+Pharaoh,PERSON
+thou  mayest,ORG
+Israel,GPE
+Egypt,GPE
+3 11,DATE
+Moses,PERSON
+God  Who,PERSON
+Pharaoh,PERSON
+Israel,GPE
+Egypt,GPE
+3 12,CARDINAL
+Egypt,GPE
+3 13,DATE
+Moses,PERSON
+God  Behold,PERSON
+Israel,GPE
+3 14,DATE
+Moses  I AM,PERSON
+Israel,GPE
+3 15,DATE
+Moses,PERSON
+Israel,GPE
+Abraham,PERSON
+Isaac,PERSON
+Jacob  hath,PERSON
+3,CARDINAL
+Israel,GPE
+Abraham,PERSON
+Isaac,PERSON
+Jacob,PERSON
+Egypt,GPE
+3 17,CARDINAL
+Egypt,GPE
+Canaanites,NORP
+Hittites,NORP
+Amorites,NORP
+Jebusites,ORG
+3 18,DATE
+Israel,GPE
+Egypt,GPE
+Hebrews,NORP
+three days,DATE
+3 19,DATE
+Egypt,GPE
+3 20,DATE
+Egypt,GPE
+3 21,DATE
+Egyptians,NORP
+3 22,CARDINAL
+Egyptians,NORP
+4 1,DATE
+Moses,PERSON
+4 2,DATE
+4 3,DATE
+Moses,PERSON
+4 4,DATE
+Moses  Put,PERSON
+4 5,CARDINAL
+Abraham,PERSON
+Isaac,PERSON
+4 6,DATE
+4 7,DATE
+4 8,DATE
+first,ORDINAL
+4 9,DATE
+two,CARDINAL
+4 10,DATE
+Moses,PERSON
+4 11,EVENT
+4 12,DATE
+4 13,DATE
+4 14,DATE
+Moses,PERSON
+Aaron,PERSON
+Levite,PERSON
+4 15,DATE
+4 16,DATE
+4 17,DATE
+4 18,DATE
+Moses,PERSON
+Jethro,PERSON
+Egypt,GPE
+Jethro,ORG
+4 19,DATE
+Moses,PERSON
+Midian,NORP
+Egypt,GPE
+4 20,DATE
+Moses,PERSON
+Egypt,GPE
+Moses,PERSON
+4 21,DATE
+Moses,PERSON
+thou goest,PERSON
+Egypt,GPE
+Pharaoh,PERSON
+4 22,DATE
+Pharaoh,PERSON
+Israel,GPE
+4 23,DATE
+4 24,DATE
+4 25,DATE
+Zipporah,PERSON
+4 26,EVENT
+4 27,DATE
+Aaron  Go,PERSON
+Moses,PERSON
+4 28,DATE
+Moses,PERSON
+Aaron,PERSON
+4 29,DATE
+Moses,PERSON
+Aaron,PERSON
+Israel,GPE
+4 30,CARDINAL
+Aaron,PERSON
+Moses,PERSON
+4 31,DATE
+Israel,GPE
+5 1,CARDINAL
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+Israel,GPE
+5 2,DATE
+Pharaoh,PERSON
+Israel,GPE
+Israel,GPE
+5 3,DATE
+Hebrews,NORP
+three days,DATE
+5 4,DATE
+Egypt,GPE
+Moses,PERSON
+Aaron,PERSON
+5 5,DATE
+Pharaoh,PERSON
+5 6,DATE
+Pharaoh,PERSON
+5 7,DATE
+5 8,DATE
+5 9,DATE
+5 10,DATE
+Pharaoh,PERSON
+5 11,TIME
+5 12,DATE
+Egypt,GPE
+5 13,DATE
+daily,DATE
+5 14,DATE
+Israel,GPE
+Pharaoh,PERSON
+yesterday,DATE
+day,DATE
+5 15,DATE
+Israel,GPE
+Pharaoh,PERSON
+5 16,DATE
+5 17,DATE
+5 18,TIME
+5 19,DATE
+Israel,GPE
+minish,PERSON
+daily,DATE
+5 20,CARDINAL
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+5 21,CARDINAL
+Pharaoh,PERSON
+5 22,DATE
+Moses,PERSON
+5 23,CARDINAL
+Pharaoh,PERSON
+6 1,DATE
+Moses,PERSON
+Pharaoh,PERSON
+6 2,DATE
+Moses,PERSON
+6,CARDINAL
+Abraham  unto,PERSON
+Isaac  and,PERSON
+Jacob  ,PERSON
+JEHOVAH,PERSON
+6 4,DATE
+Canaan,GPE
+6 5,DATE
+Israel,GPE
+Egyptians,NORP
+6 6,DATE
+Israel,GPE
+Egyptians,NORP
+6 7,DATE
+Egyptians,NORP
+6 8,DATE
+Abraham  ,PERSON
+Isaac  and,PERSON
+Jacob  ,PERSON
+6 9,DATE
+Moses,PERSON
+Israel,GPE
+Moses,PERSON
+6 10,DATE
+Moses,PERSON
+6 11,DATE
+Pharaoh,PERSON
+Egypt,GPE
+Israel,GPE
+6 12,DATE
+Moses,PERSON
+Israel,GPE
+Pharaoh,PERSON
+6 13,DATE
+Moses,PERSON
+Aaron,PERSON
+Israel,GPE
+Pharaoh,PERSON
+Egypt,GPE
+Israel,GPE
+Egypt,GPE
+6 14,CARDINAL
+Reuben  ,PERSON
+Israel,GPE
+Hanoch,GPE
+Pallu,ORG
+Hezron,ORG
+Carmi,PERSON
+Reuben,ORG
+6 15,DATE
+Simeon  Jemuel,PERSON
+Jamin  ,PERSON
+Jachin,PERSON
+Zohar,PERSON
+Shaul,PERSON
+Canaanitish,PERSON
+Simeon,ORG
+6 16,DATE
+Levi,PERSON
+Gershon,PERSON
+Kohath,GPE
+Merari,ORG
+the years,DATE
+Levi,PERSON
+an hundred thirty and seven years,CARDINAL
+6 17,TIME
+Gershon,PERSON
+Libni,NORP
+Shimi  ,PERSON
+6 18,DATE
+Kohath  Amram,GPE
+Izhar,PERSON
+Hebron,GPE
+Uzziel,ORG
+the years,DATE
+Kohath,GPE
+an hundred thirty and,CARDINAL
+three  years,DATE
+6 19,DATE
+Merari,ORG
+Mushi,PERSON
+Levi,PERSON
+6 20,DATE
+Aaron,PERSON
+Moses,PERSON
+the years,DATE
+an  hundred and thirty and,CARDINAL
+6 21,DATE
+Izhar,PERSON
+Korah,PERSON
+Nepheg,GPE
+Zichri,ORG
+6 22,DATE
+Uzziel,ORG
+Mishael,PERSON
+Elzaphan,PERSON
+Zithri,ORG
+6 23,DATE
+Aaron,PERSON
+Elisheba,ORG
+Amminadab,ORG
+Naashon,ORG
+Nadab,PERSON
+Abihu  Eleazar,PERSON
+Ithamar,ORG
+6 24,DATE
+Korah  Assir,ORG
+Abiasaph,PERSON
+Korhites,PRODUCT
+Eleazar Aaron s,PERSON
+Putiel,ORG
+Phinehas,PERSON
+Levites,ORG
+6 26,CARDINAL
+Aaron,PERSON
+Moses,PERSON
+Israel,GPE
+Egypt,GPE
+6 27,CARDINAL
+Pharaoh,PERSON
+Egypt,GPE
+Israel,GPE
+Egypt,GPE
+Moses,PERSON
+Aaron,PERSON
+6 28,DATE
+the day,DATE
+Moses,PERSON
+Egypt,GPE
+6 29,CARDINAL
+Moses,PERSON
+Pharaoh,PERSON
+Egypt,GPE
+6 30,DATE
+Moses,PERSON
+Pharaoh,PERSON
+Moses,PERSON
+Pharaoh,PERSON
+Aaron,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+Israel,GPE
+7 3,DATE
+Pharaoh,PERSON
+Egypt,GPE
+7 4,DATE
+Pharaoh,PERSON
+Egypt,GPE
+Israel,GPE
+Egypt,GPE
+7 5,DATE
+Egyptians,NORP
+Egypt,GPE
+Israel,GPE
+7 6,DATE
+Moses,PERSON
+Aaron,PERSON
+7 7,DATE
+Moses,PERSON
+fourscore years old,DATE
+Aaron,PERSON
+three  years old,DATE
+Pharaoh,PERSON
+7 8,DATE
+Moses,PERSON
+Aaron,PERSON
+7 9,DATE
+Pharaoh,PERSON
+Shew,PERSON
+Aaron  Take,PERSON
+Pharaoh,PERSON
+7 10,DATE
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+7 11,DATE
+Pharaoh,PERSON
+Egypt,GPE
+7 12,DATE
+Aaron,PERSON
+7 13,DATE
+Pharaoh,PERSON
+7 14,DATE
+Moses  Pharaoh,PERSON
+7 15,TIME
+Pharaoh,PERSON
+7 16,DATE
+Hebrews,NORP
+7 17,DATE
+7 18,DATE
+Egyptians,NORP
+7 19,DATE
+Moses  Say,PERSON
+Aaron  Take,PERSON
+Egypt,GPE
+Egypt,GPE
+7 20,DATE
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+7 21,DATE
+Egyptians,NORP
+Egypt,GPE
+7 22,DATE
+Egypt,GPE
+Pharaoh,PERSON
+7 23,DATE
+Pharaoh,PERSON
+7 24,DATE
+Egyptians,NORP
+7 25 And seven days,DATE
+8 1,DATE
+Moses  Go,PERSON
+Pharaoh,PERSON
+8 2,DATE
+8 3,DATE
+8 4,DATE
+8 5,DATE
+Moses  Say,PERSON
+Aaron  Stretch,PERSON
+Egypt,GPE
+8 6,DATE
+Aaron,PERSON
+Egypt,GPE
+Egypt,GPE
+8 7,DATE
+Egypt,GPE
+8 8,DATE
+Pharaoh,PERSON
+Moses,PERSON
+Aaron,PERSON
+Intreat,ORG
+8 9,DATE
+Moses,PERSON
+Pharaoh  Glory,PERSON
+morrow,DATE
+thou mayest,PERSON
+8 11,DATE
+8 12,DATE
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+Moses,PERSON
+Pharaoh,PERSON
+8 13,DATE
+Moses,PERSON
+8 14,DATE
+8 15,CARDINAL
+Pharaoh,PERSON
+8 16,DATE
+Moses  Say,PERSON
+Aaron  Stretch,PERSON
+Egypt,GPE
+8 17,DATE
+Aaron,PERSON
+Egypt,GPE
+8 18,DATE
+8 19,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+8 20,DATE
+Moses  Rise,PERSON
+early in the,TIME
+morning,TIME
+Pharaoh  lo,PERSON
+Egyptians,NORP
+8 22,DATE
+that day,DATE
+Goshen,GPE
+earth,LOC
+8 23,DATE
+morrow,DATE
+8 24,DATE
+Pharaoh,PERSON
+Egypt,GPE
+8 25,DATE
+Pharaoh,PERSON
+Moses,PERSON
+Aaron,PERSON
+8 26,DATE
+Moses,PERSON
+Egyptians,NORP
+God  lo,PERSON
+Egyptians,NORP
+8 27,CARDINAL
+three days,DATE
+8 28,DATE
+Pharaoh,PERSON
+8 29,DATE
+Moses,PERSON
+Pharaoh,PERSON
+morrow,DATE
+Pharaoh,PERSON
+8 30,DATE
+Moses,PERSON
+Pharaoh,PERSON
+8 31,DATE
+Moses,PERSON
+Pharaoh,PERSON
+one,CARDINAL
+8 32,DATE
+Pharaoh,PERSON
+9 1,DATE
+Moses  Go,PERSON
+Pharaoh,PERSON
+Hebrews,NORP
+9 2,EVENT
+9 3  Behold,DATE
+9 4,DATE
+Israel,GPE
+Egypt,GPE
+Israel,GPE
+9 5,DATE
+9 6,DATE
+morrow,DATE
+Egypt,GPE
+Israel,GPE
+one,CARDINAL
+9 7,DATE
+Pharaoh,PERSON
+Israelites,NORP
+Pharaoh,PERSON
+9 8,DATE
+Moses,PERSON
+Aaron  Take,PERSON
+Moses,PERSON
+Pharaoh,PERSON
+9 9,DATE
+Egypt,GPE
+blains,PERSON
+Egypt,GPE
+9 10,DATE
+Pharaoh,PERSON
+Moses,PERSON
+blains,PERSON
+9 11,DATE
+Moses,PERSON
+Egyptians,NORP
+9 12,DATE
+Pharaoh,PERSON
+Moses,PERSON
+9 13,DATE
+Moses  Rise,PERSON
+early in the,TIME
+morning,TIME
+Pharaoh,PERSON
+9 14,DATE
+thou mayest,PERSON
+9 15,DATE
+earth,LOC
+9 16,DATE
+earth,LOC
+9 17,EVENT
+9 18,CARDINAL
+morrow,DATE
+Egypt,GPE
+9 19,DATE
+9 20,DATE
+Pharaoh,PERSON
+9 21,DATE
+9 22,DATE
+Moses  Stretch,PERSON
+Egypt,GPE
+Egypt,GPE
+9 23,DATE
+Moses,PERSON
+Egypt,GPE
+9 24,DATE
+Egypt,GPE
+9 25,DATE
+Egypt,GPE
+9 26,TIME
+Goshen,GPE
+Israel,GPE
+9 27,DATE
+Pharaoh,PERSON
+Moses,PERSON
+Aaron,PERSON
+9 28,TIME
+9 29,DATE
+Moses,PERSON
+thou mayest,PERSON
+earth,LOC
+9 30,DATE
+9 31,DATE
+9 32,DATE
+9 33,DATE
+Moses,PERSON
+Pharaoh,PERSON
+earth,LOC
+9 34,DATE
+Pharaoh,PERSON
+9 35,DATE
+Pharaoh,PERSON
+Israel,GPE
+Moses,PERSON
+10 1,DATE
+Moses  Go,PERSON
+Pharaoh,PERSON
+10 2,DATE
+thou mayest,PERSON
+Egypt,GPE
+10 3,DATE
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+morrow,DATE
+10 5,DATE
+10 6,DATE
+Egyptians,NORP
+the day,DATE
+earth,LOC
+Pharaoh,PERSON
+10 7,DATE
+Pharaoh,PERSON
+Egypt,GPE
+10 8,DATE
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+10 9,DATE
+And  Moses,PERSON
+10 10,DATE
+10 11,EVENT
+Pharaoh,PERSON
+10 12,DATE
+Moses  Stretch,PERSON
+Egypt,GPE
+Egypt,GPE
+10 13,DATE
+Moses,PERSON
+Egypt,GPE
+day,DATE
+10 14,DATE
+Egypt,GPE
+Egypt,GPE
+10 15,DATE
+Egypt,GPE
+10 16,DATE
+Pharaoh,PERSON
+Moses,PERSON
+Aaron,PERSON
+10 17,DATE
+10 18,DATE
+Pharaoh,PERSON
+10 19,DATE
+Red sea,LOC
+one,CARDINAL
+Egypt,GPE
+10 20,DATE
+Pharaoh,PERSON
+Israel,GPE
+10 21,DATE
+Moses  Stretch,PERSON
+Egypt,GPE
+10 22,DATE
+Moses,PERSON
+Egypt,GPE
+three days  ,DATE
+10 23,CARDINAL
+one,CARDINAL
+three days,DATE
+Israel,GPE
+10 24,DATE
+Pharaoh,PERSON
+Moses,PERSON
+10 25,DATE
+Moses,PERSON
+10 26,TIME
+10 27,DATE
+Pharaoh,PERSON
+10 28,DATE
+Pharaoh,PERSON
+that day,DATE
+thou,PERSON
+10 29,DATE
+Moses,PERSON
+Moses,PERSON
+one,CARDINAL
+Pharaoh,PERSON
+Egypt,GPE
+11 2 Speak,DATE
+11 3,DATE
+Egyptians,NORP
+Moses,PERSON
+Egypt,GPE
+Pharaoh,PERSON
+11 4,DATE
+Moses,PERSON
+About midnight,TIME
+Egypt,GPE
+11 5,CARDINAL
+Egypt,GPE
+first,ORDINAL
+Pharaoh,PERSON
+11 6,DATE
+Egypt,GPE
+11 7,EVENT
+Israel,GPE
+Egyptians,NORP
+Israel,GPE
+11 8,DATE
+Pharaoh,PERSON
+11 9,DATE
+Moses  Pharaoh,PERSON
+Egypt,GPE
+11 10,DATE
+Moses,PERSON
+Aaron,PERSON
+Pharaoh,PERSON
+Pharaoh,PERSON
+Israel,GPE
+12 1,DATE
+Moses,PERSON
+Aaron,PERSON
+Egypt,GPE
+12 2,DATE
+This month,DATE
+the beginning of months,DATE
+the first month of the year,DATE
+12 3,DATE
+Israel,GPE
+the  tenth day of this month,DATE
+12 4,CARDINAL
+12 5,TIME
+the first year  ye  shall,DATE
+12 6,DATE
+the fourteenth day of the same month,DATE
+Israel,GPE
+evening,TIME
+12 7,WORK_OF_ART
+two,CARDINAL
+12 8,DATE
+12 9 Eat,WORK_OF_ART
+12 10,DATE
+morning,TIME
+the morning,TIME
+12 11,DATE
+12 12,DATE
+Egypt,GPE
+this night,TIME
+Egypt,GPE
+Egypt,GPE
+12 13,DATE
+Egypt,GPE
+12 14,DATE
+this day,DATE
+12 15,DATE
+Seven days,DATE
+the first day,DATE
+the first day,DATE
+the seventh day,DATE
+Israel,GPE
+12 16,DATE
+the first day,DATE
+the seventh day,DATE
+12 17,DATE
+Egypt,GPE
+this day,DATE
+12 18,DATE
+the first month,DATE
+the fourteenth day of the month,DATE
+the one and twentieth day,DATE
+the  month,DATE
+12 19,DATE
+Seven days,DATE
+Israel,GPE
+12 20,TIME
+12 21,DATE
+Moses,PERSON
+Israel,GPE
+12 22,DATE
+hyssop  and dip,ORG
+two,CARDINAL
+the morning,TIME
+Egyptians,NORP
+two,CARDINAL
+12 24,DATE
+12 25,DATE
+12 26,DATE
+12 27,DATE
+Israel,GPE
+Egypt,GPE
+Egyptians,NORP
+12 28,DATE
+Israel,GPE
+Moses,PERSON
+Aaron,PERSON
+12 29,DATE
+midnight,TIME
+Egypt,GPE
+Pharaoh,PERSON
+12 30,DATE
+Pharaoh,PERSON
+Egyptians,NORP
+Egypt,GPE
+one,CARDINAL
+12 31,DATE
+Moses,PERSON
+Aaron,PERSON
+night,TIME
+Israel,GPE
+12 32,DATE
+12 33,DATE
+Egyptians,NORP
+12 34,DATE
+12 35,DATE
+Israel,GPE
+Moses,PERSON
+Egyptians,NORP
+12 36,DATE
+Egyptians,NORP
+Egyptians,NORP
+12 37,DATE
+Israel,GPE
+Rameses,PERSON
+Succoth,PERSON
+about six hundred thousand,CARDINAL
+12 38,DATE
+12 39,DATE
+Egypt,GPE
+Egypt,GPE
+12 40,DATE
+Israel,GPE
+Egypt,GPE
+four hundred and thirty years,DATE
+12 41,DATE
+the end of the four hundred and thirty  years,DATE
+the selfsame day,DATE
+Egypt,GPE
+12 42,DATE
+Egypt,GPE
+Israel,GPE
+12 43,DATE
+Moses,PERSON
+Aaron,PERSON
+12 44,DATE
+12 45,CARDINAL
+12 46,DATE
+one,CARDINAL
+12 47,DATE
+Israel,GPE
+12 48,DATE
+12,CARDINAL
+One,CARDINAL
+12 50,DATE
+Israel,GPE
+Moses,PERSON
+Aaron,PERSON
+12 51,DATE
+Israel,GPE
+Egypt,GPE
+13 1,DATE
+Moses,PERSON
+13 2,DATE
+Israel,GPE
+13 3,DATE
+Moses,PERSON
+Egypt,GPE
+13 4,DATE
+This day,DATE
+month,DATE
+13 5,DATE
+Canaanites,NORP
+Hittites,NORP
+Amorites,NORP
+Jebusites,ORG
+this month,DATE
+13 6 Seven days,DATE
+the seventh  day,DATE
+13 7,DATE
+seven days,DATE
+13 8,DATE
+that day,DATE
+Egypt,GPE
+13 9,DATE
+Egypt,GPE
+13 10,CARDINAL
+year  to year,DATE
+13 11,DATE
+Canaanites,NORP
+13 12,DATE
+13 13,DATE
+13 14,DATE
+Egypt,GPE
+13 15,CARDINAL
+Pharaoh,PERSON
+LORD,GPE
+Egypt,GPE
+13 16,DATE
+Egypt,GPE
+13 17,DATE
+Pharaoh,PERSON
+Philistines,NORP
+Lest,PERSON
+Egypt,GPE
+13 18,CARDINAL
+the Red sea,LOC
+Israel,GPE
+Egypt,GPE
+13 19,DATE
+Moses,PERSON
+Joseph,PERSON
+Israel,GPE
+13 20,DATE
+Succoth  and,PERSON
+Etham,PERSON
+13 21,DATE
+day,DATE
+night,TIME
+day,DATE
+13 22,DATE
+day,DATE
+night,TIME
+14 1,DATE
+Moses,PERSON
+14 2 Speak,DATE
+Israel,GPE
+Pihahiroth,PERSON
+Migdol,GPE
+14 3,WORK_OF_ART
+Pharaoh,PERSON
+Israel,GPE
+14 4,DATE
+Pharaoh,PERSON
+Pharaoh,PERSON
+Egyptians,NORP
+14 5,DATE
+Egypt,GPE
+Pharaoh,PERSON
+Israel,GPE
+14 6,DATE
+14 7,DATE
+six hundred,CARDINAL
+Egypt,GPE
+14 8,DATE
+Pharaoh,PERSON
+Egypt,GPE
+Israel,GPE
+Israel,GPE
+14 9,DATE
+Egyptians,NORP
+Pharaoh,PERSON
+Pihahiroth,PERSON
+14 10,DATE
+Pharaoh,PERSON
+Israel,GPE
+Egyptians,NORP
+Israel,GPE
+14 11,DATE
+Moses,PERSON
+Egypt,GPE
+Egypt,GPE
+14 12,TIME
+Egypt,GPE
+Egyptians,NORP
+Egyptians,NORP
+14 13,DATE
+Moses,PERSON
+Egyptians,NORP
+14 14,TIME
+14 15,DATE
+Moses,PERSON
+Israel,GPE
+14 16,DATE
+Israel,GPE
+14 17,DATE
+Egyptians,NORP
+Pharaoh,PERSON
+14 18,DATE
+Egyptians,NORP
+Pharaoh,PERSON
+14 19,DATE
+Israel,GPE
+14 20,DATE
+Egyptians,NORP
+Israel,GPE
+night,TIME
+Moses,PERSON
+14 22,DATE
+Israel,GPE
+14 23,DATE
+Egyptians,NORP
+Pharaoh,PERSON
+14 24,DATE
+Egyptians,NORP
+Egyptians,NORP
+14 25,DATE
+Egyptians,NORP
+Israel,GPE
+Egyptians,NORP
+14 26,DATE
+Moses  Stretch,PERSON
+Egyptians,NORP
+14 27,DATE
+Moses,PERSON
+the morning,TIME
+Egyptians,NORP
+Egyptians,NORP
+14 28,DATE
+Pharaoh,PERSON
+14 29,DATE
+Israel,GPE
+14 30,DATE
+Israel,GPE
+that day,DATE
+Egyptians,NORP
+Israel,GPE
+Egyptians,NORP
+14 31,DATE
+Israel,GPE
+Egyptians,NORP
+Moses,PERSON
+15 1,DATE
+Moses,PERSON
+Israel,GPE
+15 2,WORK_OF_ART
+15 3,DATE
+15 4,CARDINAL
+Pharaoh,PERSON
+the Red sea,LOC
+15 5,TIME
+15 6,TIME
+15 7,DATE
+15 8,DATE
+15 9,WORK_OF_ART
+15 10,CARDINAL
+15 11,DATE
+15 12,CARDINAL
+earth,LOC
+15 13,DATE
+15 14,CARDINAL
+Palestina,GPE
+15 15,DATE
+Edom,GPE
+Moab,GPE
+Canaan,GPE
+15 16,DATE
+15 17,CARDINAL
+15 18,DATE
+15 19,DATE
+Pharaoh,PERSON
+Israel,GPE
+15 20,DATE
+Miriam,PERSON
+Aaron,PERSON
+15 21,DATE
+Miriam,PERSON
+15 22,DATE
+Moses,PERSON
+Israel,GPE
+Red sea,LOC
+Shur,PERSON
+three days,DATE
+15 23,DATE
+Marah,PERSON
+Marah,PERSON
+Marah,PERSON
+15 24,DATE
+Moses,PERSON
+15 25,DATE
+15 26,DATE
+Egyptians,NORP
+healeth thee     ,PERSON
+15 27,DATE
+twelve,CARDINAL
+threescore,CARDINAL
+ten,CARDINAL
+16 1,CARDINAL
+Israel,GPE
+Elim,PERSON
+Sinai,GPE
+the fifteenth day of the second month,DATE
+Egypt,GPE
+16 2,DATE
+Israel,GPE
+Moses,PERSON
+Aaron,PERSON
+16 3,DATE
+Israel,GPE
+Egypt,GPE
+16 4,DATE
+Moses  ,PERSON
+16 5,DATE
+the sixth day,DATE
+daily,DATE
+16 6,DATE
+Moses,PERSON
+Aaron,PERSON
+Israel,GPE
+Egypt,GPE
+16 7,DATE
+morning,TIME
+16 8,DATE
+Moses,PERSON
+morning,TIME
+16 9,DATE
+Moses,PERSON
+Aaron  Say,PERSON
+Israel,GPE
+16 10,DATE
+Aaron,PERSON
+Israel,GPE
+16 11,DATE
+Moses,PERSON
+16 12,DATE
+Israel,GPE
+16 13,DATE
+16 14,DATE
+16 15,DATE
+Israel,GPE
+one,CARDINAL
+Moses,PERSON
+16 16,DATE
+16 17,DATE
+Israel,GPE
+16 18,DATE
+16 19,DATE
+Moses,PERSON
+the morning,TIME
+Moses,PERSON
+morning,TIME
+Moses,PERSON
+16 21,DATE
+16 22,DATE
+the sixth day,DATE
+two omers,QUANTITY
+one,CARDINAL
+Moses,PERSON
+16 23,DATE
+morrow,DATE
+the morning,TIME
+16 24,EVENT
+morning,TIME
+Moses,PERSON
+16 25,DATE
+Moses,PERSON
+16 26,DATE
+Six days,DATE
+the seventh day,DATE
+16 27,DATE
+the seventh day,DATE
+16 28,DATE
+Moses  How,PERSON
+16 29,DATE
+the sixth day,DATE
+two  days,DATE
+the seventh day,DATE
+16 30,DATE
+the seventh day,DATE
+16 31,DATE
+Israel,GPE
+Manna,ORG
+16 32,DATE
+Moses,PERSON
+Egypt,GPE
+16 33,DATE
+Moses,PERSON
+Aaron  Take,PERSON
+16 34,DATE
+Moses,PERSON
+Aaron,PERSON
+16 35,DATE
+Israel,GPE
+forty years,DATE
+Canaan,GPE
+16 36,DATE
+tenth,ORDINAL
+17 1,DATE
+Israel,GPE
+Rephidim,ORG
+17 2,DATE
+Moses,PERSON
+Moses,PERSON
+17 3,DATE
+Moses,PERSON
+Egypt,GPE
+17 4,DATE
+Moses,PERSON
+17 5,DATE
+Moses  Go,PERSON
+Israel,GPE
+thou smotest  ,PERSON
+17 6,DATE
+Horeb,ORG
+Moses,PERSON
+Israel,GPE
+17 7,DATE
+Massah,GPE
+Meribah,ORG
+Israel,GPE
+17 8,DATE
+Amalek,PERSON
+Israel,GPE
+Rephidim,ORG
+17 9,DATE
+Moses,PERSON
+Joshua  Choose,PERSON
+Amalek  to,PERSON
+17 10,DATE
+Joshua,PERSON
+Moses,PERSON
+Amalek,PERSON
+Moses  Aaron,PERSON
+Hur,PERSON
+17 11,DATE
+Moses,PERSON
+Israel,GPE
+Amalek,PERSON
+17 12,DATE
+Moses,PERSON
+Aaron,PERSON
+Hur,PERSON
+one,CARDINAL
+17 13,DATE
+Joshua,PERSON
+Amalek,PERSON
+17 14,DATE
+Moses  Write,PERSON
+Joshua,PERSON
+Amalek,PERSON
+17 15,DATE
+Moses,PERSON
+Jehovahnissi,ORG
+Amalek,PERSON
+18 1,DATE
+Midian,NORP
+Moses,PERSON
+Israel,GPE
+Israel,GPE
+Egypt,GPE
+18 2,DATE
+Jethro  Moses,PERSON
+Zipporah  Moses,PERSON
+18 3,DATE
+two,CARDINAL
+Gershom,PERSON
+18 4,DATE
+Eliezer  for,PERSON
+Pharaoh,PERSON
+18 5,DATE
+Moses,PERSON
+Moses,PERSON
+two,CARDINAL
+18 7,DATE
+Moses,PERSON
+18 8,DATE
+Moses,PERSON
+Pharaoh,PERSON
+Egyptians,NORP
+Israel,GPE
+18 9,DATE
+Israel,GPE
+Egyptians,NORP
+18 10,DATE
+Jethro,ORG
+Egyptians,NORP
+Pharaoh,PERSON
+Egyptians,NORP
+18 11,DATE
+18 12,DATE
+Jethro  Moses,PERSON
+Aaron,PERSON
+Israel,GPE
+Moses,PERSON
+18 13,DATE
+morrow,DATE
+Moses,PERSON
+Moses,PERSON
+18 14,DATE
+Moses,PERSON
+18 15,DATE
+Moses,PERSON
+God  ,PERSON
+18 16,DATE
+between one,CARDINAL
+18 17,DATE
+Moses,PERSON
+18 18,CARDINAL
+18 19,DATE
+thou  mayest,ORG
+18 20,DATE
+18 21,DATE
+thousands,CARDINAL
+hundreds,CARDINAL
+fifties,DATE
+tens  18 22,CARDINAL
+18 23,DATE
+18 24,DATE
+Moses,PERSON
+18 25,DATE
+Moses,PERSON
+Israel,GPE
+thousands,CARDINAL
+hundreds,CARDINAL
+fifties,DATE
+tens     ,CARDINAL
+Moses,PERSON
+18 27,DATE
+Moses,PERSON
+19 1,DATE
+the third month,DATE
+Israel,GPE
+Egypt,GPE
+the same day,DATE
+Sinai,GPE
+19 2,DATE
+Rephidim,ORG
+Sinai,GPE
+Israel,GPE
+19 3,DATE
+Moses,PERSON
+Jacob,PERSON
+Israel,GPE
+19,CARDINAL
+Egyptians,NORP
+19 5,DATE
+19 6,DATE
+Israel,GPE
+19 7,DATE
+Moses,PERSON
+19 8,DATE
+Moses,PERSON
+19 9,DATE
+Moses  Lo  I,PERSON
+Moses,PERSON
+19 10,DATE
+Moses  Go,PERSON
+morrow,DATE
+19 11,DATE
+third,ORDINAL
+the third day,DATE
+Sinai,GPE
+19 12,DATE
+19 13,DATE
+19 14,DATE
+Moses,PERSON
+19 15,DATE
+the third day,DATE
+19 16,DATE
+the third day in the morning,DATE
+19 17,DATE
+Moses,PERSON
+19 18,DATE
+Sinai,GPE
+19 19,DATE
+Moses,PERSON
+19 20,DATE
+Sinai,GPE
+Moses,PERSON
+Moses,PERSON
+19 21,DATE
+Moses  Go,PERSON
+19 22,DATE
+19 23,DATE
+Moses,PERSON
+Sinai,GPE
+19 24,DATE
+Aaron,PERSON
+19 25,DATE
+Moses,PERSON
+20 1,DATE
+20 2,DATE
+Egypt,GPE
+20,CARDINAL
+earth,LOC
+20,CARDINAL
+third,ORDINAL
+fourth,ORDINAL
+20 6,DATE
+thousands,CARDINAL
+20 8,DATE
+sabbath day,DATE
+9 Six days,DATE
+20 10,CARDINAL
+20 11,DATE
+six days,DATE
+seventh,ORDINAL
+20 12,CARDINAL
+20 13,CARDINAL
+20 14,DATE
+20 15,CARDINAL
+20 16,CARDINAL
+20 17,CARDINAL
+20 18,DATE
+20 19,DATE
+Moses,PERSON
+20 20,DATE
+Moses,PERSON
+20 21,DATE
+Moses,PERSON
+20 22,DATE
+Moses,PERSON
+Israel,GPE
+20 23,TIME
+20,CARDINAL
+20 25,DATE
+20 26,CARDINAL
+21 1,DATE
+21 2,DATE
+Hebrew,LANGUAGE
+six years,DATE
+seventh,ORDINAL
+21 3,DATE
+21 4,DATE
+21 5,DATE
+21 6,DATE
+21 7,DATE
+21 8,DATE
+21 9,EVENT
+21 10,DATE
+21 11,DATE
+three,CARDINAL
+21 12,DATE
+smiteth,GPE
+21 13,DATE
+21 14,DATE
+21 15,DATE
+smiteth,GPE
+21 16,DATE
+21 17,DATE
+21 18,DATE
+one,CARDINAL
+21 19,DATE
+21 20,DATE
+21 21,DATE
+a day,DATE
+two,CARDINAL
+21 22,DATE
+21 23,DATE
+21,CARDINAL
+21 25,CARDINAL
+21 26,DATE
+21 27,DATE
+21 28,DATE
+21 29,DATE
+21 30,DATE
+21 31,DATE
+21 32,DATE
+thirty shekels,MONEY
+21 33,DATE
+21 34,CARDINAL
+21 35,DATE
+one,CARDINAL
+21 36,DATE
+22 1,CARDINAL
+five,CARDINAL
+four,CARDINAL
+22 2,CARDINAL
+22 3,DATE
+22 4,DATE
+22 5,CARDINAL
+22 6,DATE
+22 7,DATE
+22 8,DATE
+22 9,DATE
+22 10,DATE
+22 11,DATE
+22 12,DATE
+22 13,DATE
+22 14,DATE
+22 15,DATE
+22 16,DATE
+22 17,DATE
+22,CARDINAL
+22 19,DATE
+22 20,DATE
+22 21,DATE
+Egypt,GPE
+22 22,TIME
+22 23,DATE
+22 24,DATE
+22 25,DATE
+22 26,DATE
+22 27,DATE
+22 28,DATE
+22 29,CARDINAL
+first,ORDINAL
+22 30,TIME
+seven days,DATE
+the eighth day,DATE
+22 31,DATE
+23,CARDINAL
+23,CARDINAL
+23 3,CARDINAL
+23 4,DATE
+23 5,DATE
+23 6,DATE
+23 7,TIME
+23 8,DATE
+23 9,DATE
+Egypt,GPE
+23 10,DATE
+six years,DATE
+23 11,DATE
+the seventh year,DATE
+Six days,DATE
+the seventh day,DATE
+thou  shalt,PERSON
+23 13,DATE
+23,CARDINAL
+Three,CARDINAL
+the year,DATE
+23 15,DATE
+seven days,DATE
+month,DATE
+Egypt,GPE
+23 16,DATE
+the end of the year,DATE
+23,CARDINAL
+Three,CARDINAL
+the year,DATE
+23 18,DATE
+the morning,TIME
+23 19,EVENT
+first,ORDINAL
+God  Thou,PERSON
+23 20,DATE
+23 21,WORK_OF_ART
+23 22,DATE
+23 23,CARDINAL
+Angel,PERSON
+Hittites,NORP
+Perizzites,NORP
+Canaanites,NORP
+Jebusites,ORG
+23,CARDINAL
+23 25,DATE
+23 26,DATE
+23 27,DATE
+23 28,DATE
+Hivite,ORG
+Canaanite,NORP
+Hittite,NORP
+23 29,DATE
+one year,DATE
+23 30,TIME
+23 31,DATE
+the Red sea,LOC
+Philistines,NORP
+23,CARDINAL
+23 33,DATE
+24 1,DATE
+Moses,PERSON
+Aaron,PERSON
+Nadab,PERSON
+Abihu,GPE
+seventy,CARDINAL
+Israel,GPE
+24 2,DATE
+Moses,PERSON
+24 3,DATE
+Moses,PERSON
+one,CARDINAL
+24 4,DATE
+Moses,PERSON
+morning,TIME
+hill,ORG
+twelve,CARDINAL
+twelve,CARDINAL
+Israel,GPE
+24 5,DATE
+Israel,GPE
+24 6,DATE
+Moses,PERSON
+half,CARDINAL
+half,CARDINAL
+24 7,DATE
+24 8,DATE
+Moses,PERSON
+24 9,DATE
+Moses,PERSON
+Aaron  Nadab,PERSON
+Abihu,GPE
+seventy,CARDINAL
+Israel,GPE
+24 10,CARDINAL
+Israel,GPE
+24 11,DATE
+Israel,GPE
+24 12,DATE
+Moses,PERSON
+thou mayest,PERSON
+24 13,DATE
+Moses,PERSON
+Joshua  ,PERSON
+Moses,PERSON
+24 14,DATE
+Tarry,PERSON
+Aaron,PERSON
+Hur,PERSON
+24 15,DATE
+Moses,PERSON
+24 16,DATE
+mount Sinai,GPE
+six days,DATE
+the seventh day,DATE
+Moses,PERSON
+24 17,DATE
+Israel,GPE
+24 18,DATE
+Moses,PERSON
+Moses,PERSON
+forty days,DATE
+forty nights,TIME
+25 1,EVENT
+Moses,PERSON
+25 2 Speak,DATE
+Israel,GPE
+25 3,DATE
+25 4,DATE
+25 5,CARDINAL
+rams  skins,PERSON
+25,CARDINAL
+25,CARDINAL
+Onyx,PRODUCT
+25 8,DATE
+25 9,DATE
+25 10,DATE
+two,CARDINAL
+25 11,DATE
+25 12,DATE
+four,CARDINAL
+four,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+25 13,DATE
+25 14,DATE
+25 15,CARDINAL
+ark,GPE
+25 16,DATE
+25 17,DATE
+two,CARDINAL
+25 18,DATE
+two,CARDINAL
+two,CARDINAL
+25 19,DATE
+one,CARDINAL
+one,CARDINAL
+two,CARDINAL
+25 20,DATE
+25 21,DATE
+ark,GPE
+25 22,DATE
+two,CARDINAL
+Israel,GPE
+25 23,CARDINAL
+two,CARDINAL
+25 24,DATE
+25 25,EVENT
+25 26,DATE
+four,CARDINAL
+four,CARDINAL
+the four feet,QUANTITY
+25 27,DATE
+25 28,DATE
+25 29,DATE
+25 30,DATE
+25 31,DATE
+25 32,DATE
+six,CARDINAL
+three,CARDINAL
+one,CARDINAL
+three,CARDINAL
+25,CARDINAL
+Three,CARDINAL
+one,CARDINAL
+three,CARDINAL
+six,CARDINAL
+25 34,DATE
+four,CARDINAL
+25 35,DATE
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+six,CARDINAL
+25 36,CARDINAL
+25 37,DATE
+seven,CARDINAL
+25 38,DATE
+snuffdishes,PERSON
+25 39,CARDINAL
+25 40,DATE
+26 1,CARDINAL
+ten,CARDINAL
+26 2,TIME
+one,CARDINAL
+eight and,QUANTITY
+twenty cubits,QUANTITY
+one,CARDINAL
+four,CARDINAL
+one,CARDINAL
+26 3,CARDINAL
+five,CARDINAL
+five,CARDINAL
+one,CARDINAL
+26 4,DATE
+one,CARDINAL
+second,ORDINAL
+26,CARDINAL
+Fifty,CARDINAL
+one,CARDINAL
+fifty,CARDINAL
+second,ORDINAL
+one,CARDINAL
+26 6,DATE
+fifty,CARDINAL
+one,CARDINAL
+26 7,DATE
+26 8,TIME
+one,CARDINAL
+thirty cubits,QUANTITY
+one,CARDINAL
+four,CARDINAL
+one,CARDINAL
+26 9,DATE
+couple five,CARDINAL
+six,CARDINAL
+sixth,ORDINAL
+26 10,DATE
+fifty,CARDINAL
+one,CARDINAL
+fifty,CARDINAL
+second,ORDINAL
+26 11,DATE
+fifty,CARDINAL
+one,CARDINAL
+26 12,DATE
+26 13,DATE
+one,CARDINAL
+26 14,DATE
+rams  skins,PERSON
+26 15,DATE
+shittim,GPE
+26,CARDINAL
+Ten cubits,QUANTITY
+one,CARDINAL
+26,CARDINAL
+Two,CARDINAL
+one,CARDINAL
+26 18,DATE
+twenty,CARDINAL
+26 19,DATE
+forty,CARDINAL
+twenty,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+26 20,DATE
+second,ORDINAL
+twenty,CARDINAL
+26 21,CARDINAL
+forty,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+26 22,DATE
+six,CARDINAL
+26 23,DATE
+two,CARDINAL
+two,CARDINAL
+26 24,DATE
+one,CARDINAL
+two,CARDINAL
+26 25,DATE
+eight,CARDINAL
+sixteen,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+26 26,DATE
+shittim,GPE
+five,CARDINAL
+one,CARDINAL
+26 27,DATE
+five,CARDINAL
+five,CARDINAL
+two,CARDINAL
+26 28,DATE
+26 29,DATE
+26 30,DATE
+26 31,DATE
+26,CARDINAL
+four,CARDINAL
+four,CARDINAL
+26 33,DATE
+thou  mayest,ORG
+26 34,DATE
+26 35,DATE
+26 36,DATE
+26 37,DATE
+five,CARDINAL
+five,CARDINAL
+27 1,DATE
+shittim,PERSON
+five cubits,QUANTITY
+five cubits,QUANTITY
+three,CARDINAL
+27 2,DATE
+four,CARDINAL
+27 3,DATE
+firepans,NORP
+27 4,DATE
+four,CARDINAL
+four,CARDINAL
+27 5,DATE
+27 6,DATE
+27 7,DATE
+two,CARDINAL
+27 8,TIME
+27 9,DATE
+an hundred cubits,QUANTITY
+one,CARDINAL
+27 10,DATE
+twenty,CARDINAL
+twenty,CARDINAL
+27 11,DATE
+an hundred cubits,QUANTITY
+twenty,CARDINAL
+twenty,CARDINAL
+27 12,DATE
+fifty,CARDINAL
+ten,CARDINAL
+ten,CARDINAL
+27 13,DATE
+fifty cubits,QUANTITY
+27 14,TIME
+one,CARDINAL
+fifteen cubits,QUANTITY
+three,CARDINAL
+three,CARDINAL
+27 15,DATE
+fifteen cubits,QUANTITY
+three,CARDINAL
+three,CARDINAL
+27 16,DATE
+twenty  cubits,QUANTITY
+four,CARDINAL
+four,CARDINAL
+27 17,DATE
+27 18,CARDINAL
+hundred,CARDINAL
+fifty,CARDINAL
+five cubits,QUANTITY
+27 19,DATE
+27 20,DATE
+Israel,GPE
+27 21,DATE
+Aaron,PERSON
+evening  to,TIME
+Israel,GPE
+28 1,DATE
+Aaron,PERSON
+Israel,GPE
+Aaron  Nadab,PERSON
+Abihu  Eleazar,PERSON
+Ithamar,GPE
+Aaron,PERSON
+28 2,DATE
+Aaron,PERSON
+28 3,DATE
+Aaron,PERSON
+28 4,DATE
+mitre,PRODUCT
+Aaron,PERSON
+28 5,DATE
+28 6,DATE
+28 7,DATE
+two,CARDINAL
+two,CARDINAL
+28 8,DATE
+28 9,DATE
+two,CARDINAL
+Israel,GPE
+28,CARDINAL
+Six,CARDINAL
+one,CARDINAL
+six,CARDINAL
+28 11,DATE
+two,CARDINAL
+Israel,GPE
+28 12,DATE
+two,CARDINAL
+Israel,GPE
+Aaron,PERSON
+two,CARDINAL
+28 13,DATE
+28 14,DATE
+two,CARDINAL
+wreathen,GPE
+28 15,DATE
+28,CARDINAL
+Foursquare,PRODUCT
+28 17,DATE
+four,CARDINAL
+first,ORDINAL
+first,ORDINAL
+28 18,DATE
+second,ORDINAL
+28 19,DATE
+third,ORDINAL
+28 20,DATE
+fourth,ORDINAL
+28 21,DATE
+Israel,GPE
+twelve,CARDINAL
+twelve,CARDINAL
+28 22,DATE
+28 23,DATE
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+28 24,DATE
+two,CARDINAL
+two,CARDINAL
+28 25,DATE
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+28 26,DATE
+two,CARDINAL
+two,CARDINAL
+28 27,DATE
+two,CARDINAL
+two,CARDINAL
+28 28,DATE
+28 29,DATE
+Aaron,PERSON
+Israel,GPE
+28 30,DATE
+Urim,ORG
+Thummim,PERSON
+Aaron,PERSON
+Aaron,PERSON
+Israel,GPE
+28 31,DATE
+28 32,DATE
+habergeon,ORG
+28 33,DATE
+28 35,DATE
+Aaron,PERSON
+28 36,DATE
+HOLINESS TO,EVENT
+28 37,DATE
+28 38,DATE
+Aaron,PERSON
+Aaron,PERSON
+Israel,GPE
+28 39,DATE
+28 40,DATE
+Aaron,PERSON
+28 41,DATE
+Aaron,PERSON
+28 42,DATE
+28,CARDINAL
+Aaron,PERSON
+29 1,DATE
+one,CARDINAL
+two,CARDINAL
+29 2,DATE
+29 3,DATE
+one,CARDINAL
+two,CARDINAL
+29 4,DATE
+Aaron,PERSON
+29 5,DATE
+Aaron,PERSON
+29 6,DATE
+mitre,PRODUCT
+29 7,DATE
+29 8,DATE
+29 9,DATE
+Aaron,PERSON
+Aaron,PERSON
+29 10,DATE
+Aaron,PERSON
+29 11,DATE
+29 12,DATE
+29 13,DATE
+two,CARDINAL
+29 14,DATE
+29,CARDINAL
+one,CARDINAL
+Aaron,PERSON
+29 16,DATE
+29 17,DATE
+29 18,DATE
+29 19,DATE
+Aaron,PERSON
+29 20,DATE
+Aaron,PERSON
+29 21,DATE
+Aaron,PERSON
+29 22,DATE
+two,CARDINAL
+29 23,DATE
+one,CARDINAL
+one,CARDINAL
+one,CARDINAL
+29 24,DATE
+Aaron,PERSON
+29 25,DATE
+29 26,DATE
+Aaron,PERSON
+29 27,DATE
+Aaron,PERSON
+29 28,DATE
+Aaron,PERSON
+Israel,GPE
+Israel,GPE
+29 29,DATE
+Aaron,PERSON
+29 30,DATE
+seven  days,DATE
+29 31,DATE
+29 32,DATE
+Aaron,PERSON
+29 33,DATE
+29 34,DATE
+morning,TIME
+29 35,DATE
+Aaron,PERSON
+seven days,DATE
+29 36,DATE
+every day,DATE
+29,CARDINAL
+Seven days,DATE
+29 38,DATE
+two,CARDINAL
+the first year day,DATE
+29 39,CARDINAL
+one,CARDINAL
+morning,TIME
+29 40,DATE
+one,CARDINAL
+tenth,ORDINAL
+fourth,ORDINAL
+fourth,ORDINAL
+29 41,DATE
+morning,TIME
+29 42,TIME
+29 43,DATE
+Israel,GPE
+29 44,DATE
+Aaron,PERSON
+29 45,DATE
+Israel,GPE
+29 46,DATE
+Egypt,GPE
+30 1,DATE
+30 2 A cubit,QUANTITY
+two,CARDINAL
+30 3,EVENT
+30 4,EVENT
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+30 5,DATE
+30 6,DATE
+the ark of the,ORG
+30 7,DATE
+Aaron,PERSON
+30 8,DATE
+Aaron lighteth,PERSON
+30 9 Ye,TIME
+30 10,DATE
+Aaron,PERSON
+a  year,DATE
+atonements,ORG
+the  year,DATE
+30 11,EVENT
+Moses,PERSON
+30 12,DATE
+Israel,GPE
+thou  numberest,PERSON
+30 13,DATE
+twenty,CARDINAL
+30 14,TIME
+twenty  years old,DATE
+30 15,TIME
+less  than half,CARDINAL
+30 16,DATE
+Israel,GPE
+Israel,GPE
+30 17,DATE
+Moses,PERSON
+30 18,CARDINAL
+30 19,DATE
+Aaron,PERSON
+30 20,DATE
+30 21,DATE
+30 22,DATE
+Moses,PERSON
+30 23,CARDINAL
+five hundred shekels,MONEY
+half,CARDINAL
+two hundred and fifty shekels,MONEY
+two hundred and fifty shekels,CARDINAL
+cassia,GPE
+five hundred shekels,MONEY
+30 26,DATE
+30 27,DATE
+30 28,DATE
+30 29,DATE
+30 30,DATE
+Aaron,PERSON
+30 31,DATE
+Israel,GPE
+30 32,DATE
+30 33,DATE
+30 34,DATE
+Moses,PERSON
+stacte,ORG
+30 35,DATE
+30 36,DATE
+30 37,DATE
+30 38,DATE
+31 1,DATE
+Moses,PERSON
+31 2,DATE
+Uri,PERSON
+Hur,PERSON
+Judah,GPE
+31 3,DATE
+31 4,CARDINAL
+31 5,DATE
+31 6,DATE
+Aholiab,PRODUCT
+Ahisamach,ORG
+Dan,PERSON
+31 7,DATE
+31 8,DATE
+31 9,DATE
+31 10,DATE
+Aaron,PERSON
+31 11,DATE
+31 12,DATE
+Moses,PERSON
+31 13,DATE
+thou,PERSON
+Israel,GPE
+31 14,TIME
+31 15,DATE
+Six days,DATE
+seventh,ORDINAL
+31 16,DATE
+Israel,GPE
+31 17,DATE
+Israel,GPE
+six days,DATE
+the seventh day,DATE
+31 18,DATE
+Moses,PERSON
+Sinai,GPE
+two,CARDINAL
+32 1,DATE
+Moses,PERSON
+Aaron,PERSON
+Moses,PERSON
+Egypt,GPE
+32 2,DATE
+Aaron,PERSON
+Break,EVENT
+32 3,DATE
+Aaron,PERSON
+32 4,DATE
+Israel,GPE
+Egypt,GPE
+32 5,DATE
+Aaron,PERSON
+Aaron,PERSON
+morrow,DATE
+32 6,DATE
+morrow,DATE
+32 7,DATE
+Moses  Go,PERSON
+thou broughtest,PERSON
+Egypt,GPE
+32 8,DATE
+Israel,GPE
+Egypt,GPE
+32 9,DATE
+Moses,PERSON
+32 10,DATE
+32 11,DATE
+Moses,PERSON
+Egypt,GPE
+32 12,DATE
+Egyptians,NORP
+32 13,DATE
+Abraham  Isaac,PERSON
+Israel,GPE
+thou  swarest,PERSON
+32 14,DATE
+32 15,DATE
+Moses,PERSON
+two,CARDINAL
+one,CARDINAL
+32 16,DATE
+God  graven,PERSON
+32 17,DATE
+Joshua,PERSON
+Moses,PERSON
+32 18,DATE
+32 19,DATE
+Moses,PERSON
+32 20,DATE
+Israel,GPE
+32 21,DATE
+Moses,PERSON
+Aaron,PERSON
+32 22,DATE
+Aaron,PERSON
+32 23,DATE
+Moses,PERSON
+Egypt,GPE
+32 24,DATE
+32 25,DATE
+Moses,PERSON
+Aaron,PERSON
+32 26,DATE
+Then  Moses,PERSON
+Levi,PERSON
+32 27,DATE
+Israel,GPE
+32 28,DATE
+Levi,PERSON
+Moses,PERSON
+about three thousand,CARDINAL
+32 29,DATE
+Moses,PERSON
+today,DATE
+this day,DATE
+32 30,DATE
+morrow,DATE
+Moses,PERSON
+32 31,DATE
+Moses,PERSON
+32 32,DATE
+32 33,DATE
+Moses,PERSON
+32 34,DATE
+Angel,PERSON
+the day,DATE
+32 35,DATE
+Aaron,PERSON
+33 1,DATE
+Moses,PERSON
+Egypt,GPE
+Abraham  to,PERSON
+Isaac  and,PERSON
+Jacob,PERSON
+33 2,DATE
+Canaanite,NORP
+Amorite,PRODUCT
+Hittite,NORP
+Perizzite,ORG
+Hivite,ORG
+33 3,DATE
+33 4,DATE
+33 5,DATE
+Moses  Say,PERSON
+Israel,GPE
+33 6,DATE
+Israel,GPE
+Horeb,ORG
+33 7,DATE
+Moses,PERSON
+33 8,DATE
+Moses,PERSON
+Moses,PERSON
+33 9,DATE
+Moses,PERSON
+Moses,PERSON
+33 10,DATE
+33 11,DATE
+Moses,PERSON
+Joshua,PERSON
+Nun,PERSON
+33 12,DATE
+Moses,PERSON
+33 13,DATE
+33 14,DATE
+33 15,DATE
+33 16,DATE
+earth,LOC
+33 17,DATE
+Moses,PERSON
+33 18,DATE
+33 19,DATE
+33 20,DATE
+33 21,DATE
+33 22,DATE
+33 23,DATE
+34 1,DATE
+Moses  Hew,PERSON
+two,CARDINAL
+first,ORDINAL
+first,ORDINAL
+34 2,DATE
+morning,TIME
+Sinai,GPE
+34 3,DATE
+34 4,DATE
+two,CARDINAL
+first,ORDINAL
+Moses,PERSON
+early in the,TIME
+morning,TIME
+Sinai,GPE
+two,CARDINAL
+34 5,DATE
+34 6,DATE
+34,CARDINAL
+thousands,CARDINAL
+third,ORDINAL
+fourth,ORDINAL
+34 8,DATE
+Moses,PERSON
+34 9,DATE
+34 10,DATE
+34 11,TIME
+Amorite,PRODUCT
+Canaanite,NORP
+Hittite,NORP
+Perizzite,ORG
+Hivite,ORG
+34,CARDINAL
+34 13,DATE
+34 14,DATE
+34,CARDINAL
+Lest thou,PERSON
+34 16,DATE
+34 17,DATE
+34 18,DATE
+Seven days,DATE
+thou  shalt,PERSON
+Egypt,GPE
+34 19,DATE
+34 20,DATE
+34 21,DATE
+Six days,DATE
+the seventh day,DATE
+34 22,DATE
+weeks,DATE
+34 23,TIME
+the year,DATE
+Israel,GPE
+34 24,DATE
+the year,DATE
+34 25,TIME
+morning,TIME
+first,ORDINAL
+God  Thou,PERSON
+34 27,DATE
+Moses,PERSON
+Israel,GPE
+34 28,DATE
+forty days,DATE
+forty nights,TIME
+ten,CARDINAL
+34 29,DATE
+Moses,PERSON
+Sinai,GPE
+two,CARDINAL
+Moses,PERSON
+Moses,PERSON
+34 30,DATE
+Aaron,PERSON
+Israel,GPE
+Moses,PERSON
+34 31,DATE
+Moses,PERSON
+Aaron,PERSON
+Moses,PERSON
+34 32,DATE
+Israel,GPE
+Sinai,GPE
+34 33,DATE
+Moses,PERSON
+34 34,DATE
+Moses,PERSON
+Israel,GPE
+34 35,DATE
+Israel,GPE
+Moses,PERSON
+Moses,PERSON
+Moses,PERSON
+35 1,DATE
+Moses,PERSON
+Israel,GPE
+35 2 Six days,DATE
+the seventh day,DATE
+doeth,ORG
+35 3,TIME
+sabbath day,DATE
+35 4,DATE
+Moses,PERSON
+Israel,GPE
+35,CARDINAL
+35 6,DATE
+35 7,DATE
+rams  skins,PERSON
+35 8,CARDINAL
+35 9,DATE
+35 10,DATE
+35 11,CARDINAL
+35 12,CARDINAL
+35 13,CARDINAL
+shewbread,ORG
+35 14,CARDINAL
+35 15,DATE
+35 16,CARDINAL
+35,CARDINAL
+35 18,CARDINAL
+35 19,CARDINAL
+Aaron,PERSON
+35 20,DATE
+Israel,GPE
+Moses,PERSON
+35 21,DATE
+35 22,DATE
+35 23,DATE
+35,CARDINAL
+shittim,PERSON
+35 25,DATE
+35 26,DATE
+35 27,DATE
+35 28,DATE
+35 29,CARDINAL
+Israel,GPE
+Moses,PERSON
+35 30,DATE
+Moses,PERSON
+Israel,GPE
+Uri,PERSON
+Hur,PERSON
+Judah,GPE
+35 31,DATE
+35 32,DATE
+35 33,DATE
+35 34,DATE
+Aholiab,PRODUCT
+Ahisamach,ORG
+Dan,PERSON
+35 35,DATE
+36 1,DATE
+Aholiab,PRODUCT
+36 2,DATE
+Moses,PERSON
+Aholiab,PRODUCT
+36 3,DATE
+Moses,PERSON
+Israel,GPE
+36 5,DATE
+Moses,PERSON
+36 6,DATE
+Moses,PERSON
+36 7,DATE
+36 8,DATE
+ten,CARDINAL
+36 9,TIME
+one,CARDINAL
+twenty and,QUANTITY
+eight cubits,QUANTITY
+one,CARDINAL
+four,CARDINAL
+one,CARDINAL
+36 10,DATE
+five,CARDINAL
+five,CARDINAL
+one,CARDINAL
+one,CARDINAL
+second,ORDINAL
+36,CARDINAL
+Fifty,CARDINAL
+one,CARDINAL
+fifty,CARDINAL
+second,ORDINAL
+one,CARDINAL
+36 13,DATE
+fifty,CARDINAL
+one,CARDINAL
+one,CARDINAL
+36 14,DATE
+36 15,TIME
+one,CARDINAL
+thirty cubits,QUANTITY
+four cubits,QUANTITY
+one,CARDINAL
+eleven,CARDINAL
+one,CARDINAL
+36 16,DATE
+five,CARDINAL
+six,CARDINAL
+36 17,DATE
+fifty,CARDINAL
+fifty,CARDINAL
+second,ORDINAL
+36 18,DATE
+fifty,CARDINAL
+one,CARDINAL
+36 19,DATE
+rams  skins,PERSON
+36 20,DATE
+shittim,GPE
+36 21,CARDINAL
+ten,CARDINAL
+one cubit,QUANTITY
+half,CARDINAL
+One,CARDINAL
+two,CARDINAL
+36 23,DATE
+twenty,CARDINAL
+36 24,DATE
+forty,CARDINAL
+twenty,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+36 25,DATE
+twenty,CARDINAL
+36 26,CARDINAL
+forty,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+36 27,DATE
+six,CARDINAL
+36 28,DATE
+two,CARDINAL
+two,CARDINAL
+36 29,DATE
+one,CARDINAL
+36 30,DATE
+eight,CARDINAL
+sixteen,CARDINAL
+two,CARDINAL
+36 31,DATE
+shittim,GPE
+five,CARDINAL
+one,CARDINAL
+36 32,DATE
+five,CARDINAL
+five,CARDINAL
+36 33,DATE
+one,CARDINAL
+36 34,DATE
+36 35,DATE
+36 36,DATE
+four,CARDINAL
+four,CARDINAL
+36 37,DATE
+36 38,DATE
+five,CARDINAL
+five,CARDINAL
+37 1,DATE
+two cubits,QUANTITY
+half,CARDINAL
+37 2,DATE
+37 3,DATE
+four,CARDINAL
+four,CARDINAL
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+37 4,DATE
+37 5,DATE
+ark,GPE
+ark,GPE
+37 6,DATE
+two cubits,QUANTITY
+half,CARDINAL
+one cubit,QUANTITY
+37 7,DATE
+two,CARDINAL
+one,CARDINAL
+two,CARDINAL
+37,CARDINAL
+One,CARDINAL
+two,CARDINAL
+37 9,DATE
+37 10,DATE
+two,CARDINAL
+37 11,DATE
+37 12,DATE
+37 13,DATE
+four,CARDINAL
+four,CARDINAL
+the four feet,QUANTITY
+37,CARDINAL
+37 15,DATE
+37 16,DATE
+37 17,DATE
+37 18,DATE
+six,CARDINAL
+three,CARDINAL
+one,CARDINAL
+three,CARDINAL
+37 19,CARDINAL
+Three,CARDINAL
+one,CARDINAL
+three,CARDINAL
+six,CARDINAL
+37 20,DATE
+four,CARDINAL
+37 21,DATE
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+six,CARDINAL
+37 22,DATE
+37 23,DATE
+seven,CARDINAL
+snuffdishes,PERSON
+37 24,CARDINAL
+37 25,DATE
+shittim,PERSON
+two,CARDINAL
+37 26,DATE
+37 27,DATE
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+37 28,DATE
+37 29,DATE
+38 1,DATE
+five  cubits,QUANTITY
+five cubits,QUANTITY
+three cubits,QUANTITY
+38 2,DATE
+four,CARDINAL
+38 3,DATE
+firepans,NORP
+38 4,DATE
+38 5,DATE
+four,CARDINAL
+four,CARDINAL
+38 6,DATE
+38 7,DATE
+38 8,DATE
+38 9,DATE
+an hundred cubits  ,QUANTITY
+38 10,CARDINAL
+twenty,CARDINAL
+twenty,CARDINAL
+38 11,DATE
+an hundred cubits,QUANTITY
+twenty,CARDINAL
+twenty,CARDINAL
+38 12,DATE
+fifty,CARDINAL
+ten,CARDINAL
+ten,CARDINAL
+38 13,DATE
+fifty cubits,QUANTITY
+38 14,CARDINAL
+one,CARDINAL
+fifteen cubits,QUANTITY
+three,CARDINAL
+three,CARDINAL
+38 15,DATE
+fifteen cubits,QUANTITY
+three,CARDINAL
+three,CARDINAL
+38 16,DATE
+38 17,DATE
+38 18,DATE
+twenty  cubits,QUANTITY
+five cubits,QUANTITY
+38 19,DATE
+four,CARDINAL
+four,CARDINAL
+38 20,DATE
+38 21,DATE
+Moses,PERSON
+Levites,ORG
+Ithamar,GPE
+Aaron,PERSON
+38 22,DATE
+Uri,PERSON
+Hur,PERSON
+Judah,PERSON
+Moses,PERSON
+38 23,DATE
+Aholiab  son,PERSON
+Ahisamach,ORG
+Dan,PERSON
+38 24,CARDINAL
+twenty,DATE
+nine,CARDINAL
+seven hundred and thirty shekels,CARDINAL
+38 25,DATE
+hundred,CARDINAL
+a thousand seven hundred,CARDINAL
+fifteen shekels,MONEY
+38 26,CARDINAL
+half,CARDINAL
+twenty years  old,DATE
+six hundred thousand and three thousand and five  hundred and fifty,CARDINAL
+38 27,DATE
+hundred,CARDINAL
+hundred,CARDINAL
+hundred,CARDINAL
+38 28,DATE
+the thousand seven hundred seventy and five shekels,CARDINAL
+38 29,DATE
+seventy,CARDINAL
+two  thousand and four hundred shekels,CARDINAL
+38 30,DATE
+the brasen altar  ,ORG
+38 31,DATE
+39 1,DATE
+Aaron,PERSON
+Moses,PERSON
+39 2,DATE
+39 3,DATE
+39 4,CARDINAL
+two,CARDINAL
+39 5,DATE
+Moses,PERSON
+39 6,DATE
+Israel,GPE
+39 7,DATE
+Israel,GPE
+Moses,PERSON
+39 8,DATE
+39 9,CARDINAL
+39 10,DATE
+four,CARDINAL
+the first row,DATE
+first,ORDINAL
+39 11,DATE
+second,ORDINAL
+39 12,DATE
+third,ORDINAL
+39 13,DATE
+fourth,ORDINAL
+39 14,DATE
+Israel,GPE
+twelve,CARDINAL
+twelve,CARDINAL
+39 15,DATE
+39 16,DATE
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+two,CARDINAL
+39 17,DATE
+two,CARDINAL
+two,CARDINAL
+39 18,DATE
+two,CARDINAL
+two wreathen,QUANTITY
+two,CARDINAL
+39 19,DATE
+two,CARDINAL
+two,CARDINAL
+39 20,DATE
+two,CARDINAL
+two,CARDINAL
+39 21,DATE
+Moses,PERSON
+39 22,DATE
+39 23,DATE
+habergeon,ORG
+39 24,DATE
+39 25,DATE
+39 26,CARDINAL
+Moses,PERSON
+39 27,DATE
+Aaron,PERSON
+39 28,DATE
+39 29,CARDINAL
+Moses,PERSON
+39 30,DATE
+HOLINESS  TO,EVENT
+39 31,DATE
+mitre,PRODUCT
+Moses,PERSON
+39 32,DATE
+Israel,GPE
+Moses,PERSON
+39 33,DATE
+Moses,PERSON
+39 34,DATE
+rams  skins,PERSON
+39 35,CARDINAL
+39,CARDINAL
+shewbread,ORG
+39,CARDINAL
+39 38,DATE
+39,CARDINAL
+39 40,CARDINAL
+39 41,CARDINAL
+Aaron,PERSON
+39 42,DATE
+Moses,PERSON
+Israel,GPE
+39 43,DATE
+Moses,PERSON
+Moses,PERSON
+40 1,DATE
+Moses,PERSON
+40 2,DATE
+the first day,DATE
+the first month,DATE
+40 3,DATE
+ark,GPE
+vail,GPE
+40 4,DATE
+40 5,DATE
+40 6,DATE
+40 7,DATE
+40 8,DATE
+40 9,DATE
+40 10,DATE
+40 11,EVENT
+40 12,DATE
+Aaron,PERSON
+40 13,DATE
+Aaron,PERSON
+40 14,DATE
+40,CARDINAL
+thou,NORP
+40 16,DATE
+Moses,PERSON
+40 17,DATE
+the first month,DATE
+the second year,DATE
+the first day of the month,DATE
+40 18,DATE
+Moses,PERSON
+40 19,DATE
+Moses,PERSON
+40 20,DATE
+ark,GPE
+ark,GPE
+ark,GPE
+40 21,DATE
+ark,GPE
+Moses,PERSON
+40 22,DATE
+vail,GPE
+40 23,DATE
+Moses,PERSON
+40 24,DATE
+40 25,DATE
+Moses,PERSON
+40 26,DATE
+vail,GPE
+40 27,DATE
+Moses,PERSON
+40 28,DATE
+40 29,DATE
+Moses,PERSON
+40 30,DATE
+40 31,DATE
+Moses,PERSON
+Aaron,PERSON
+40 32,DATE
+Moses,PERSON
+40 33,DATE
+Moses,PERSON
+40 34,DATE
+40 35,DATE
+Moses,PERSON
+40 36,DATE
+Israel,GPE
+40 37,DATE
+the day,DATE
+40 38,DATE
+day,DATE
+night,TIME
+Israel,GPE
