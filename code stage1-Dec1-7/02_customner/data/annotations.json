@@ -1,0 +1,280 @@
+[
+    ["And Basemath, the daughter of Ismael, sister of Nabajoth.\r", {
+        "entities": [
+            [18, 29, "RELATION"],
+            [38, 47, "RELATION"]
+        ]
+    }],
+    ["And Ada bore Eliphaz: Basemath bore Rahuel.\r", {
+        "entities": [
+            [8, 12, "RELATION"],
+            [31, 35, "RELATION"]
+        ]
+    }],
+    ["Oolibama bore Jehus, and Ihelon, and Core. These are the sons of Esau, that were born to him in the land of Chanaan.And Esau took his wives, and his sons and daughters, and every soul of his house, and his substance, and cattle, and all that he was able to acquire in the land of Chanaan: and went into another country,and departed from his brother Jacob.\r", {
+        "entities": [
+            [9, 13, "RELATION"],
+            [57, 64, "RELATION"],
+            [134, 139, "RELATION"],
+            [149, 153, "RELATION"],
+            [158, 167, "RELATION"],
+            [341, 348, "RELATION"]
+        ]
+    }],
+    ["And these are the generations of Esau, the father of Edom, in mount Seir.\r", {
+        "entities": [
+            [43, 52, "RELATION"]
+        ]
+    }],
+    ["And these the names of his sons: Eliphaz the son of Ada, the wife of Esau: and Rahuel, the son of Basemath, his wife.\r", {
+        "entities": [
+            [27, 31, "RELATION"],
+            [45, 51, "RELATION"],
+            [61, 68, "RELATION"],
+            [91, 97, "RELATION"],
+            [112, 116, "RELATION"]
+        ]
+    }],
+    ["And Eliphaz had sons: Theman, Omar, Sepho, and Gatham and Cenez.\r", {
+        "entities": [
+            [16, 20, "RELATION"]
+        ]
+    }],
+    ["And Thamna was the concubine of Eliphaz, the son of Esau: and she bore him Amalech. These are the sons of Ada, the wife of Esau.\r", {
+        "entities": [
+            [19, 31, "RELATION"],
+            [45, 51, "RELATION"],
+            [66, 70, "RELATION"],
+            [98, 105, "RELATION"],
+            [115, 122, "RELATION"]
+        ]
+    }],
+    ["And the sons of Rahuel were Nahath and Zara, Samma and Meza.These were the sons of Basemath, the wife of Esau.\r", {
+        "entities": [
+            [8, 15, "RELATION"],
+            [75, 82, "RELATION"],
+            [97, 104, "RELATION"]
+        ]
+    }],
+    ["And these were the sons of Oolibama, the daughter of Ana, the daughter of Sebeon, the wife of Esau, whom she bore to him, Jehus, and Ihelon, and Core.\r", {
+        "entities": [
+            [19, 26, "RELATION"],
+            [41, 52, "RELATION"],
+            [62, 73, "RELATION"],
+            [86, 93, "RELATION"],
+            [109, 113, "RELATION"]
+        ]
+    }],
+    ["These were dukes of the sons of Esau: the sons of Eliphaz, the firstborn of Esau: duke Theman, duke Omar, duke Sepho, duke Cenez, Duke Core, duke Gatham, duke Amalech: these are the sons of Eliphaz, in the land of Edom, and these the sons of Ada.\r", {
+        "entities": [
+            [24, 31, "RELATION"],
+            [42, 49, "RELATION"],
+            [182, 189, "RELATION"],
+            [234, 238, "RELATION"]
+        ]
+    }],
+    ["And these were the sons of Rahuel, the son of Esau: duke Nahath, duke Zara, duke Samma, duke Meza. And these are the dukes of Rahuel, in the land of Edom: these the sons of Basemath, the wife of Esau.\r", {
+        "entities": [
+            [19, 26, "RELATION"],
+            [39, 45, "RELATION"],
+            [165, 172, "RELATION"],
+            [187, 194, "RELATION"]
+        ]
+    }],
+    ["And these the sons of Oolibama, the wife of Esau: duke Jehus, duke Ihelon, duke Core. These are the dukes of Oolibama, the daughter of Ana, and wife of Esau.These are the sons of Esau, and these the dukes of them: the\r", {
+        "entities": [
+            [14, 21, "RELATION"],
+            [36, 43, "RELATION"],
+            [123, 134, "RELATION"],
+            [144, 151, "RELATION"],
+            [171, 178, "RELATION"]
+        ]
+    }],
+    ["same is Edom.\r", { "entities": [] }],
+    ["These are the sons of Seir, the Horrite, the inhabitants of the land: Lotan, and Sobal, and Sebeon, and Ana, And Lotan had sons: Hori and Heman. And the sister of Lotan was Thamna.\r", {
+        "entities": [
+            [14, 21, "RELATION"],
+            [123, 127, "RELATION"],
+            [153, 162, "RELATION"]
+        ]
+    }],
+    ["And these the sons of Sobal: Alvan, and Manahat, and Ebal, and Sepho, and Onam.\r", {
+        "entities": [
+            [14, 21, "RELATION"]
+        ]
+    }],
+    ["And these the sons of Sebeon: Aia and Ana. This is Ana that found the hot waters in the wilderness, when he fed the asses of Sebeon, his father: And he had a son Dison, and a daughter Oolibama. And these were the sons of Dison: Hamdan, and Eseban, and Jethram, and Charan.\r", {
+        "entities": [
+            [14, 21, "RELATION"],
+            [137, 143, "RELATION"],
+            [158, 161, "RELATION"],
+            [175, 183, "RELATION"],
+            [213, 220, "RELATION"]
+        ]
+    }],
+    ["This man also being dead, Adar reigned in his place; and the name of his city was Phau: and his wife was called Meetabel, the daughter of Matred, daughter of Mezaab.\r", {
+        "entities": [
+            [96, 100, "RELATION"],
+            [126, 137, "RELATION"],
+            [146, 157, "RELATION"]
+        ]
+    }],
+    ["And he saw there the daughter of a man of Chanaan, called Sue: and taking her to wife, he went in unto her. And she conceived, and bore a son, and called his name Her.\r", {
+        "entities": [
+            [21, 32, "RELATION"],
+            [81, 85, "RELATION"],
+            [131, 135, "RELATION"]
+        ]
+    }],
+    ["And Juda took a wife for Her, his first born, whose name was Thamar.\r", {
+        "entities": [
+            [16, 20, "RELATION"]
+        ]
+    }],
+    ["And Her, the first born of Juda, was wicked in the sight of the Lord: and was slain by him.\r", { "entities": [] }],
+    ["Juda, therefore, said to Onan his son: Go in to thy brother’s wife and marry her, that thou mayst raise seed to thy brother.\r", {
+        "entities": [
+            [34, 37, "RELATION"],
+            [52, 66, "RELATION"]
+        ]
+    }],
+    ["Now Moses fed the sheep of Jethro, his father in law, the priest of Madian: and he drove the flock to the inner parts of the desert, and came to the mountain of God, Horeb.\r", {
+        "entities": [
+            [39, 52, "RELATION"]
+        ]
+    }],
+    ["And they lifted up their voice, and began to weep again: Orpha kissed her mother in law, and returned: Ruth stuck close to her mother in law.\r", {
+        "entities": [
+            [74, 87, "RELATION"],
+            [127, 140, "RELATION"]
+        ]
+    }],
+    ["Now her husband Elimelech had a kinsman, a powerful man, and very rich, whose name was Booz.\r", {
+        "entities": [
+            [8, 15, "RELATION"]
+        ]
+    }],
+    ["And Adam called the name of his wife Eve: because she was the mother of all the living.\r", {
+        "entities": [
+            [32, 36, "RELATION"]
+        ]
+    }],
+    ["And Adam knew Eve his wife; who conceived and brought forth Cain,saying: I have gotten a man through God.\r", {
+        "entities": [
+            [22, 26, "RELATION"],
+            [32, 41, "RELATION"],
+            [60, 64, "RELATION"]
+        ]
+    }],
+    ["And again she brought forth his brother Abel. And Abel was a shepherd, and Cain a husbandman.\r", {
+        "entities": [
+            [32, 39, "RELATION"]
+        ]
+    }],
+    ["And Cain knew his wife, and she conceived, and brought forth Henoch: and he built a city, and called the name thereof by the name of his son Henoch.\r", {
+        "entities": [
+            [18, 22, "RELATION"],
+            [137, 140, "RELATION"]
+        ]
+    }],
+    ["And the sons of Noe, who came out of the ark, were Sem, Cham, and Japheth: and Cham is the father of Chanaan.\r", {
+        "entities": [
+            [8, 15, "RELATION"],
+            [91, 100, "RELATION"]
+        ]
+    }],
+    ["And God said to Abraham: Sara thy wife shall bear thee a son,and thou shalt call his name Isaac,and I will establish my covenant with him for a perpetual covenant, and with his seed after him.\r", {
+        "entities": [
+            [34, 38, "RELATION"],
+            [57, 60, "RELATION"]
+        ]
+    }],
+    ["These also are the generations of Isaac the son of Abraham:Abraham begot Isaac:\r", {
+        "entities": [
+            [44, 50, "RELATION"]
+        ]
+    }],
+    ["Who when he was forty years old, took to wife Rebecca the daughter of Bathuel the Syrian of Mesopotamia, sister to Laban.\r", {
+        "entities": [
+            [41, 45, "RELATION"],
+            [105, 111, "RELATION"]
+        ]
+    }],
+    ["And when her time was come to be delivered, behold twins werefound in her womb.\r", { "entities": [] }],
+    ["He that came forth first was red, and hairy like a skin: and his name was called Esau. Immediately the other coming forth, held his brother’s foot in his hand: and herefore he was called Jacob.\r", { "entities": [] }],
+    ["Now Absalom appointed Amasa in Joab’s stead over the army: and Amasa was the son of a man who was called Jethra, of Jezrael, who went in to Abigail the daughter of Naas, the sister of Sarvia who was the mother of Joab.\r", {
+        "entities": [
+            [77, 83, "RELATION"],
+            [152, 163, "RELATION"],
+            [174, 183, "RELATION"],
+            [203, 212, "RELATION"]
+        ]
+    }],
+    ["But Josaba the daughter of king Joram, sister of Ochozias, took Joas, the son of Ochozias, and stole him from among the king’s sons that were slain, out of the bedchamber with his nurse: and hid him from the face of Athalia; so that he was not slain.\r", {
+        "entities": [
+            [15, 26, "RELATION"],
+            [39, 48, "RELATION"],
+            [74, 80, "RELATION"]
+        ]
+    }],
+    ["And he saw there the daughter of a man of Chanaan, called Sue:and taking her to wife, he went in unto her.\r", {
+        "entities": [
+            [21, 32, "RELATION"],
+            [80, 84, "RELATION"]
+        ]
+    }],
+    ["And she conceived, and bore a son, and called his name Her.\r", {
+        "entities": [
+            [23, 33, "RELATION"]
+        ]
+    }],
+    ["And conceiving again, she bore a son, and called him Onan.\r", {
+        "entities": [
+            [26, 36, "RELATION"]
+        ]
+    }],
+    ["The sons then of Ruben the firstborn of Israel were Enoch, and Phallu, Esron, and Charmi.\r", {
+        "entities": [
+            [4, 8, "RELATION"]
+        ]
+    }],
+    ["The sons of Joel: Samaia his son, Gog his son, Semei his son, Micha his son, Reia his son, Baal his son,Beera his son, whom Thelgathphalnasar king of the Assyrians carried away captive, and he was prince in the tribe of Ruben.\r", {
+        "entities": [
+            [4, 11, "RELATION"],
+            [29, 32, "RELATION"],
+            [42, 45, "RELATION"],
+            [57, 60, "RELATION"],
+            [72, 75, "RELATION"],
+            [86, 89, "RELATION"],
+            [100, 103, "RELATION"],
+            [114, 117, "RELATION"]
+        ]
+    }],
+    ["And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.\r", {
+        "entities": [
+            [27, 37, "RELATION"],
+            [56, 60, "RELATION"]
+        ]
+    }],
+    ["Epiphanes, the younger son of Antiochus the Great, who usurped the kingdom, to the prejudice of his nephew Demetrius, son of his elder brother Seleucus Philopater.\r", {
+        "entities": [
+            [15, 26, "RELATION"],
+            [100, 106, "RELATION"],
+            [118, 142, "RELATION"]
+        ]
+    }],
+    ["And the name of Saul’s wife was Achinoam, the daughter of Achimaas; and the name of the captain of his army was Abner, the son of Ner, the cousin german of Saul.\r", {
+        "entities": [
+            [23, 27, "RELATION"],
+            [46, 57, "RELATION"],
+            [123, 129, "RELATION"],
+            [139, 145, "RELATION"]
+        ]
+    }],
+    ["And it was told David, what Respha the daughter of Aia, the concubine of Saul, had done.\r", {
+        "entities": [
+            [39, 50, "RELATION"],
+            [60, 72, "RELATION"]
+        ]
+    }]
+]
