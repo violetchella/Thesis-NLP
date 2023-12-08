@@ -3,9 +3,10 @@
                   The RELATION contains "Father, Mother, son, daughter, husband, wife, son in law, father in law, mother in law, children,concubine"
       
       
-      Pipeline created:
-              ![pipeline_creation](https://github.com/violetchella/Thesis-NLP/assets/28826360/3c7eae8a-71e1-4e1f-9595-21c48c4cbb94)
+Pipeline created:
 
-     End Result with pipeline:
-          
-             ![pipe_result](https://github.com/violetchella/Thesis-NLP/assets/28826360/ee149c03-1b98-4f0d-893f-1be3b32f9f6e)
+![pipeline_creation](https://github.com/violetchella/Thesis-NLP/assets/28826360/ec1e64e9-c505-4ba7-971f-1bb1edbb7e9e)
+
+
+End Result with pipeline:          
+![pipe_result](https://github.com/violetchella/Thesis-NLP/assets/28826360/a4f2f7d8-a965-477a-9fea-d90a3a7b4ae9)
